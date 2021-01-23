@@ -4,13 +4,17 @@ import math
 import random
 import plotly.express as px
 
+df = pd.read_csv('data/Filtered_NYPD_Data.csv')
+
+frame = df['ADDR_PCT_CD'].value_counts().to_dict()
+
 nycmap = json.load(open('data/precinct-boundaries/Police Precincts.geojson'))
 
 mapdata = nycmap['features']
 d = []
 for x in mapdata:
-    precinct = int(x['properties']['precinct'])
-    n_crimes = random.randint(1, 100)
+    precinct = float(x['properties']['precinct'])
+    n_crimes = frame[precinct]
     d.append([precinct, n_crimes])
 
 
@@ -30,3 +34,4 @@ fig = px.choropleth_mapbox(df,
                            )
 
 fig.show()
+
