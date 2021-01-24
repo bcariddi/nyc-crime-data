@@ -1,0 +1,2826 @@
+Location,TimeFrame,DataFormat,Data,Fips
+Battery Park/Tribeca,2005,Number,51150.45963,101
+Battery Park/Tribeca,2006,Number,59445.0087,101
+Battery Park/Tribeca,2007,Number,56375.39151,101
+Battery Park/Tribeca,2008,Number,61639.90009,101
+Battery Park/Tribeca,2009,Number,56591.85182,101
+Battery Park/Tribeca,2010,Number,58534.74464,101
+Battery Park/Tribeca,2011,Number,59159.49109,101
+Battery Park/Tribeca,2012,Number,59742.64163,101
+Battery Park/Tribeca,2013,Number,64506.78766,101
+Battery Park/Tribeca,2014,Number,64575.84496,101
+Battery Park/Tribeca,2015,Number,61934.008,101
+Battery Park/Tribeca,2016,Number,61736.452,101
+Greenwich Village,2005,Number,75508.54037,102
+Greenwich Village,2006,Number,87752.9913,102
+Greenwich Village,2007,Number,83221.60849,102
+Greenwich Village,2008,Number,90993.09991,102
+Greenwich Village,2009,Number,83541.14818,102
+Greenwich Village,2010,Number,86409.25536,102
+Greenwich Village,2011,Number,87331.50891,102
+Greenwich Village,2012,Number,88192.35837,102
+Greenwich Village,2013,Number,95225.21234,102
+Greenwich Village,2014,Number,95327.15504,102
+Greenwich Village,2015,Number,91367.992,102
+Greenwich Village,2016,Number,91076.548,102
+Lower East Side,2005,Number,145556,103
+Lower East Side,2006,Number,178669,103
+Lower East Side,2007,Number,172403,103
+Lower East Side,2008,Number,168794,103
+Lower East Side,2009,Number,162014,103
+Lower East Side,2010,Number,159009,103
+Lower East Side,2011,Number,165774,103
+Lower East Side,2012,Number,167050,103
+Lower East Side,2013,Number,163820,103
+Lower East Side,2014,Number,152453,103
+Lower East Side,2015,Number,164036,103
+Lower East Side,2016,Number,159296,103
+Chelsea/Clinton,2005,Number,88754.39184,104
+Chelsea/Clinton,2006,Number,87597.43577,104
+Chelsea/Clinton,2007,Number,88750.39314,104
+Chelsea/Clinton,2008,Number,96738.45502,104
+Chelsea/Clinton,2009,Number,98282.61816,104
+Chelsea/Clinton,2010,Number,89618.11019,104
+Chelsea/Clinton,2011,Number,95336.24559,104
+Chelsea/Clinton,2012,Number,94014.67654,104
+Chelsea/Clinton,2013,Number,97965.38827,104
+Chelsea/Clinton,2014,Number,99598.85562,104
+Chelsea/Clinton,2015,Number,106297.596,104
+Chelsea/Clinton,2016,Number,93404.502,104
+Midtown Business District,2005,Number,44420.60816,105
+Midtown Business District,2006,Number,43841.56423,105
+Midtown Business District,2007,Number,44418.60686,105
+Midtown Business District,2008,Number,48416.54498,105
+Midtown Business District,2009,Number,49189.38184,105
+Midtown Business District,2010,Number,44852.88981,105
+Midtown Business District,2011,Number,47714.75441,105
+Midtown Business District,2012,Number,47053.32346,105
+Midtown Business District,2013,Number,49030.61173,105
+Midtown Business District,2014,Number,49848.14438,105
+Midtown Business District,2015,Number,53308.404,105
+Midtown Business District,2016,Number,46842.498,105
+Murray Hill/Stuyvesant,2005,Number,146269,106
+Murray Hill/Stuyvesant,2006,Number,138971,106
+Murray Hill/Stuyvesant,2007,Number,144403,106
+Murray Hill/Stuyvesant,2008,Number,149132,106
+Murray Hill/Stuyvesant,2009,Number,155527,106
+Murray Hill/Stuyvesant,2010,Number,145044,106
+Murray Hill/Stuyvesant,2011,Number,147757,106
+Murray Hill/Stuyvesant,2012,Number,141157,106
+Murray Hill/Stuyvesant,2013,Number,147069,106
+Murray Hill/Stuyvesant,2014,Number,143349,106
+Murray Hill/Stuyvesant,2015,Number,140575,106
+Murray Hill/Stuyvesant,2016,Number,141162,106
+Upper West Side,2005,Number,208708,107
+Upper West Side,2006,Number,216812,107
+Upper West Side,2007,Number,214490,107
+Upper West Side,2008,Number,207754,107
+Upper West Side,2009,Number,213137,107
+Upper West Side,2010,Number,199843,107
+Upper West Side,2011,Number,193671,107
+Upper West Side,2012,Number,198568,107
+Upper West Side,2013,Number,179877,107
+Upper West Side,2014,Number,192374,107
+Upper West Side,2015,Number,189827,107
+Upper West Side,2016,Number,189492,107
+Upper East Side,2005,Number,211724,108
+Upper East Side,2006,Number,214459,108
+Upper East Side,2007,Number,218253,108
+Upper East Side,2008,Number,232241,108
+Upper East Side,2009,Number,234133,108
+Upper East Side,2010,Number,218842,108
+Upper East Side,2011,Number,209534,108
+Upper East Side,2012,Number,220861,108
+Upper East Side,2013,Number,217537,108
+Upper East Side,2014,Number,221898,108
+Upper East Side,2015,Number,214571,108
+Upper East Side,2016,Number,219004,108
+Manhattanville,2005,Number,114405,109
+Manhattanville,2006,Number,122736,109
+Manhattanville,2007,Number,130456,109
+Manhattanville,2008,Number,123363,109
+Manhattanville,2009,Number,132851,109
+Manhattanville,2010,Number,138048,109
+Manhattanville,2011,Number,138515,109
+Manhattanville,2012,Number,128093,109
+Manhattanville,2013,Number,130017,109
+Manhattanville,2014,Number,130739,109
+Manhattanville,2015,Number,132630,109
+Manhattanville,2016,Number,125195,109
+Central Harlem,2005,Number,118291,110
+Central Harlem,2006,Number,118143,110
+Central Harlem,2007,Number,124883,110
+Central Harlem,2008,Number,125875,110
+Central Harlem,2009,Number,122336,110
+Central Harlem,2010,Number,126558,110
+Central Harlem,2011,Number,123524,110
+Central Harlem,2012,Number,138256,110
+Central Harlem,2013,Number,148434,110
+Central Harlem,2014,Number,132027,110
+Central Harlem,2015,Number,140209,110
+Central Harlem,2016,Number,143487,110
+East Harlem,2005,Number,109772,111
+East Harlem,2006,Number,134287,111
+East Harlem,2007,Number,121457,111
+East Harlem,2008,Number,126609,111
+East Harlem,2009,Number,113328,111
+East Harlem,2010,Number,114525,111
+East Harlem,2011,Number,123386,111
+East Harlem,2012,Number,122538,111
+East Harlem,2013,Number,114311,111
+East Harlem,2014,Number,129713,111
+East Harlem,2015,Number,122434,111
+East Harlem,2016,Number,134279,111
+Washington Heights,2005,Number,215215,112
+Washington Heights,2006,Number,208867,112
+Washington Heights,2007,Number,221756,112
+Washington Heights,2008,Number,203239,112
+Washington Heights,2009,Number,208123,112
+Washington Heights,2010,Number,205414,112
+Washington Heights,2011,Number,210245,112
+Washington Heights,2012,Number,213564,112
+Washington Heights,2013,Number,218366,112
+Washington Heights,2014,Number,224365,112
+Washington Heights,2015,Number,227328,112
+Washington Heights,2016,Number,238759,112
+Mott Haven,2005,Number,86004.36653,201
+Mott Haven,2006,Number,87777.74431,201
+Mott Haven,2007,Number,95904.34664,201
+Mott Haven,2008,Number,96940.62052,201
+Mott Haven,2009,Number,96740.11298,201
+Mott Haven,2010,Number,99801.83125,201
+Mott Haven,2011,Number,96779.57796,201
+Mott Haven,2012,Number,100795.4575,201
+Mott Haven,2013,Number,103719.68489,201
+Mott Haven,2014,Number,106394.39179,201
+Mott Haven,2015,Number,105159.145,201
+Mott Haven,2016,Number,105915.264,201
+Hunts Point,2005,Number,49109.63347,202
+Hunts Point,2006,Number,50122.25569,202
+Hunts Point,2007,Number,54762.65336,202
+Hunts Point,2008,Number,55354.37948,202
+Hunts Point,2009,Number,55239.88702,202
+Hunts Point,2010,Number,56988.16875,202
+Hunts Point,2011,Number,55262.42205,202
+Hunts Point,2012,Number,57555.5425,202
+Hunts Point,2013,Number,59225.31511,202
+Hunts Point,2014,Number,60752.60821,202
+Hunts Point,2015,Number,59925.855,202
+Hunts Point,2016,Number,60356.736,202
+Morrisania,2005,Number,68816.55766,203
+Morrisania,2006,Number,76787.37594,203
+Morrisania,2007,Number,75598.01557,203
+Morrisania,2008,Number,74816.68751,203
+Morrisania,2009,Number,73348.45613,203
+Morrisania,2010,Number,78598.08049,203
+Morrisania,2011,Number,84369.7318,203
+Morrisania,2012,Number,81620.16154,203
+Morrisania,2013,Number,82558.53801,203
+Morrisania,2014,Number,84271.39308,203
+Morrisania,2015,Number,86174.514,203
+Morrisania,2016,Number,85447.86,203
+Concourse/Highbridge,2005,Number,132813,204
+Concourse/Highbridge,2006,Number,132838,204
+Concourse/Highbridge,2007,Number,139445,204
+Concourse/Highbridge,2008,Number,138648,204
+Concourse/Highbridge,2009,Number,136768,204
+Concourse/Highbridge,2010,Number,146624,204
+Concourse/Highbridge,2011,Number,141627,204
+Concourse/Highbridge,2012,Number,137175,204
+Concourse/Highbridge,2013,Number,138206,204
+Concourse/Highbridge,2014,Number,141467,204
+Concourse/Highbridge,2015,Number,154296,204
+Concourse/Highbridge,2016,Number,151835,204
+University Heights,2005,Number,131447,205
+University Heights,2006,Number,133858,205
+University Heights,2007,Number,129263,205
+University Heights,2008,Number,125990,205
+University Heights,2009,Number,152903,205
+University Heights,2010,Number,135266,205
+University Heights,2011,Number,133352,205
+University Heights,2012,Number,131879,205
+University Heights,2013,Number,136077,205
+University Heights,2014,Number,132850,205
+University Heights,2015,Number,143996,205
+University Heights,2016,Number,135115,205
+East Tremont,2005,Number,71841.44234,206
+East Tremont,2006,Number,80162.62406,206
+East Tremont,2007,Number,78920.98443,206
+East Tremont,2008,Number,78105.3125,206
+East Tremont,2009,Number,76572.54388,206
+East Tremont,2010,Number,82052.91951,206
+East Tremont,2011,Number,88078.2682,206
+East Tremont,2012,Number,85207.83846,206
+East Tremont,2013,Number,86187.46199,206
+East Tremont,2014,Number,87975.60692,206
+East Tremont,2015,Number,90051.486,206
+East Tremont,2016,Number,89292.14,206
+Bedford Park,2005,Number,131535,207
+Bedford Park,2006,Number,124968,207
+Bedford Park,2007,Number,121634,207
+Bedford Park,2008,Number,122723,207
+Bedford Park,2009,Number,130290,207
+Bedford Park,2010,Number,124826,207
+Bedford Park,2011,Number,117800,207
+Bedford Park,2012,Number,128117,207
+Bedford Park,2013,Number,127336,207
+Bedford Park,2014,Number,135893,207
+Bedford Park,2015,Number,129884,207
+Bedford Park,2016,Number,138899,207
+Riverdale,2005,Number,100157,208
+Riverdale,2006,Number,111199,208
+Riverdale,2007,Number,113170,208
+Riverdale,2008,Number,123077,208
+Riverdale,2009,Number,105102,208
+Riverdale,2010,Number,109153,208
+Riverdale,2011,Number,103785,208
+Riverdale,2012,Number,104603,208
+Riverdale,2013,Number,114884,208
+Riverdale,2014,Number,106737,208
+Riverdale,2015,Number,112505,208
+Riverdale,2016,Number,108865,208
+Unionport/Soundview,2005,Number,178944,209
+Unionport/Soundview,2006,Number,180396,209
+Unionport/Soundview,2007,Number,166492,209
+Unionport/Soundview,2008,Number,183514,209
+Unionport/Soundview,2009,Number,182737,209
+Unionport/Soundview,2010,Number,182977,209
+Unionport/Soundview,2011,Number,182740,209
+Unionport/Soundview,2012,Number,179541,209
+Unionport/Soundview,2013,Number,191175,209
+Unionport/Soundview,2014,Number,190126,209
+Unionport/Soundview,2015,Number,178301,209
+Unionport/Soundview,2016,Number,193240,209
+Throgs Neck,2005,Number,98174,210
+Throgs Neck,2006,Number,114081,210
+Throgs Neck,2007,Number,123302,210
+Throgs Neck,2008,Number,116692,210
+Throgs Neck,2009,Number,114885,210
+Throgs Neck,2010,Number,109482,210
+Throgs Neck,2011,Number,122886,210
+Throgs Neck,2012,Number,119950,210
+Throgs Neck,2013,Number,122671,210
+Throgs Neck,2014,Number,121209,210
+Throgs Neck,2015,Number,116042,210
+Throgs Neck,2016,Number,111431,210
+Pelham Parkway,2005,Number,119613,211
+Pelham Parkway,2006,Number,121465,211
+Pelham Parkway,2007,Number,126978,211
+Pelham Parkway,2008,Number,130517,211
+Pelham Parkway,2009,Number,126715,211
+Pelham Parkway,2010,Number,123655,211
+Pelham Parkway,2011,Number,121836,211
+Pelham Parkway,2012,Number,136275,211
+Pelham Parkway,2013,Number,121307,211
+Pelham Parkway,2014,Number,135839,211
+Pelham Parkway,2015,Number,133573,211
+Pelham Parkway,2016,Number,124632,211
+Williamsbridge,2005,Number,141185,212
+Williamsbridge,2006,Number,147818,212
+Williamsbridge,2007,Number,148189,212
+Williamsbridge,2008,Number,145525,212
+Williamsbridge,2009,Number,145986,212
+Williamsbridge,2010,Number,137233,212
+Williamsbridge,2011,Number,143486,212
+Williamsbridge,2012,Number,145754,212
+Williamsbridge,2013,Number,135386,212
+Williamsbridge,2014,Number,134644,212
+Williamsbridge,2015,Number,145536,212
+Williamsbridge,2016,Number,150691,212
+Williamsburg/Greenpoint,2005,Number,132287,301
+Williamsburg/Greenpoint,2006,Number,141513,301
+Williamsburg/Greenpoint,2007,Number,146456,301
+Williamsburg/Greenpoint,2008,Number,149665,301
+Williamsburg/Greenpoint,2009,Number,139263,301
+Williamsburg/Greenpoint,2010,Number,146253,301
+Williamsburg/Greenpoint,2011,Number,144584,301
+Williamsburg/Greenpoint,2012,Number,147300,301
+Williamsburg/Greenpoint,2013,Number,156086,301
+Williamsburg/Greenpoint,2014,Number,154713,301
+Williamsburg/Greenpoint,2015,Number,167820,301
+Williamsburg/Greenpoint,2016,Number,166361,301
+Fort Greene/Brooklyn Hts,2005,Number,109811,302
+Fort Greene/Brooklyn Hts,2006,Number,111796,302
+Fort Greene/Brooklyn Hts,2007,Number,116753,302
+Fort Greene/Brooklyn Hts,2008,Number,116528,302
+Fort Greene/Brooklyn Hts,2009,Number,121297,302
+Fort Greene/Brooklyn Hts,2010,Number,125468,302
+Fort Greene/Brooklyn Hts,2011,Number,118910,302
+Fort Greene/Brooklyn Hts,2012,Number,130102,302
+Fort Greene/Brooklyn Hts,2013,Number,130954,302
+Fort Greene/Brooklyn Hts,2014,Number,139070,302
+Fort Greene/Brooklyn Hts,2015,Number,134656,302
+Fort Greene/Brooklyn Hts,2016,Number,143328,302
+Bedford Stuyvesant,2005,Number,135559,303
+Bedford Stuyvesant,2006,Number,132087,303
+Bedford Stuyvesant,2007,Number,125699,303
+Bedford Stuyvesant,2008,Number,141064,303
+Bedford Stuyvesant,2009,Number,132514,303
+Bedford Stuyvesant,2010,Number,133302,303
+Bedford Stuyvesant,2011,Number,132524,303
+Bedford Stuyvesant,2012,Number,136462,303
+Bedford Stuyvesant,2013,Number,143629,303
+Bedford Stuyvesant,2014,Number,133235,303
+Bedford Stuyvesant,2015,Number,150857,303
+Bedford Stuyvesant,2016,Number,148237,303
+Bushwick,2005,Number,115583,304
+Bushwick,2006,Number,123871,304
+Bushwick,2007,Number,129980,304
+Bushwick,2008,Number,127496,304
+Bushwick,2009,Number,134869,304
+Bushwick,2010,Number,140437,304
+Bushwick,2011,Number,138763,304
+Bushwick,2012,Number,143782,304
+Bushwick,2013,Number,145795,304
+Bushwick,2014,Number,137368,304
+Bushwick,2015,Number,122010,304
+Bushwick,2016,Number,139306,304
+East New York,2005,Number,143543,305
+East New York,2006,Number,161064,305
+East New York,2007,Number,158711,305
+East New York,2008,Number,156855,305
+East New York,2009,Number,163813,305
+East New York,2010,Number,146614,305
+East New York,2011,Number,146530,305
+East New York,2012,Number,157832,305
+East New York,2013,Number,158183,305
+East New York,2014,Number,155863,305
+East New York,2015,Number,158756,305
+East New York,2016,Number,160769,305
+Park Slope,2005,Number,112313,306
+Park Slope,2006,Number,110032,306
+Park Slope,2007,Number,108989,306
+Park Slope,2008,Number,118144,306
+Park Slope,2009,Number,118886,306
+Park Slope,2010,Number,119558,306
+Park Slope,2011,Number,112066,306
+Park Slope,2012,Number,109204,306
+Park Slope,2013,Number,116339,306
+Park Slope,2014,Number,125062,306
+Park Slope,2015,Number,117037,306
+Park Slope,2016,Number,114007,306
+Sunset Park,2005,Number,139547,307
+Sunset Park,2006,Number,153066,307
+Sunset Park,2007,Number,146760,307
+Sunset Park,2008,Number,147678,307
+Sunset Park,2009,Number,158333,307
+Sunset Park,2010,Number,141190,307
+Sunset Park,2011,Number,152038,307
+Sunset Park,2012,Number,151902,307
+Sunset Park,2013,Number,154422,307
+Sunset Park,2014,Number,152685,307
+Sunset Park,2015,Number,149773,307
+Sunset Park,2016,Number,149399,307
+Crown Heights North,2005,Number,128655,308
+Crown Heights North,2006,Number,127013,308
+Crown Heights North,2007,Number,129870,308
+Crown Heights North,2008,Number,122392,308
+Crown Heights North,2009,Number,125931,308
+Crown Heights North,2010,Number,119323,308
+Crown Heights North,2011,Number,126360,308
+Crown Heights North,2012,Number,120243,308
+Crown Heights North,2013,Number,127050,308
+Crown Heights North,2014,Number,126747,308
+Crown Heights North,2015,Number,131303,308
+Crown Heights North,2016,Number,134788,308
+Crown Heights South,2005,Number,108000,309
+Crown Heights South,2006,Number,110333,309
+Crown Heights South,2007,Number,112052,309
+Crown Heights South,2008,Number,111833,309
+Crown Heights South,2009,Number,109170,309
+Crown Heights South,2010,Number,107419,309
+Crown Heights South,2011,Number,113947,309
+Crown Heights South,2012,Number,113485,309
+Crown Heights South,2013,Number,103822,309
+Crown Heights South,2014,Number,109337,309
+Crown Heights South,2015,Number,115092,309
+Crown Heights South,2016,Number,110382,309
+Bay Ridge,2005,Number,124339,310
+Bay Ridge,2006,Number,123447,310
+Bay Ridge,2007,Number,126730,310
+Bay Ridge,2008,Number,121390,310
+Bay Ridge,2009,Number,128811,310
+Bay Ridge,2010,Number,137599,310
+Bay Ridge,2011,Number,132931,310
+Bay Ridge,2012,Number,127481,310
+Bay Ridge,2013,Number,127683,310
+Bay Ridge,2014,Number,128545,310
+Bay Ridge,2015,Number,122418,310
+Bay Ridge,2016,Number,118804,310
+Bensonhurst,2005,Number,181857,311
+Bensonhurst,2006,Number,174593,311
+Bensonhurst,2007,Number,184258,311
+Bensonhurst,2008,Number,183083,311
+Bensonhurst,2009,Number,163384,311
+Bensonhurst,2010,Number,164506,311
+Bensonhurst,2011,Number,181227,311
+Bensonhurst,2012,Number,189420,311
+Bensonhurst,2013,Number,184907,311
+Bensonhurst,2014,Number,187637,311
+Bensonhurst,2015,Number,187861,311
+Bensonhurst,2016,Number,189426,311
+Borough Park,2005,Number,154525,312
+Borough Park,2006,Number,155509,312
+Borough Park,2007,Number,176198,312
+Borough Park,2008,Number,170292,312
+Borough Park,2009,Number,163645,312
+Borough Park,2010,Number,168915,312
+Borough Park,2011,Number,162087,312
+Borough Park,2012,Number,162352,312
+Borough Park,2013,Number,161036,312
+Borough Park,2014,Number,170011,312
+Borough Park,2015,Number,161856,312
+Borough Park,2016,Number,151250,312
+Coney Island,2005,Number,109576,313
+Coney Island,2006,Number,103687,313
+Coney Island,2007,Number,108484,313
+Coney Island,2008,Number,104974,313
+Coney Island,2009,Number,111063,313
+Coney Island,2010,Number,103112,313
+Coney Island,2011,Number,102351,313
+Coney Island,2012,Number,100695,313
+Coney Island,2013,Number,106249,313
+Coney Island,2014,Number,110727,313
+Coney Island,2015,Number,122781,313
+Coney Island,2016,Number,116847,313
+Flatbush/Midwood,2005,Number,156685,314
+Flatbush/Midwood,2006,Number,163099,314
+Flatbush/Midwood,2007,Number,160783,314
+Flatbush/Midwood,2008,Number,172592,314
+Flatbush/Midwood,2009,Number,163298,314
+Flatbush/Midwood,2010,Number,162715,314
+Flatbush/Midwood,2011,Number,162760,314
+Flatbush/Midwood,2012,Number,148198,314
+Flatbush/Midwood,2013,Number,157167,314
+Flatbush/Midwood,2014,Number,180723,314
+Flatbush/Midwood,2015,Number,163459,314
+Flatbush/Midwood,2016,Number,163620,314
+Sheepshead Bay,2005,Number,151192,315
+Sheepshead Bay,2006,Number,148784,315
+Sheepshead Bay,2007,Number,137489,315
+Sheepshead Bay,2008,Number,145146,315
+Sheepshead Bay,2009,Number,149806,315
+Sheepshead Bay,2010,Number,133282,315
+Sheepshead Bay,2011,Number,143196,315
+Sheepshead Bay,2012,Number,153182,315
+Sheepshead Bay,2013,Number,156346,315
+Sheepshead Bay,2014,Number,137815,315
+Sheepshead Bay,2015,Number,147318,315
+Sheepshead Bay,2016,Number,159017,315
+Brownsville,2005,Number,111136,316
+Brownsville,2006,Number,116936,316
+Brownsville,2007,Number,120802,316
+Brownsville,2008,Number,113502,316
+Brownsville,2009,Number,118392,316
+Brownsville,2010,Number,115433,316
+Brownsville,2011,Number,126002,316
+Brownsville,2012,Number,128864,316
+Brownsville,2013,Number,128100,316
+Brownsville,2014,Number,123772,316
+Brownsville,2015,Number,127468,316
+Brownsville,2016,Number,109658,316
+East Flatbush,2005,Number,143392,317
+East Flatbush,2006,Number,147390,317
+East Flatbush,2007,Number,135649,317
+East Flatbush,2008,Number,147017,317
+East Flatbush,2009,Number,151181,317
+East Flatbush,2010,Number,140285,317
+East Flatbush,2011,Number,131274,317
+East Flatbush,2012,Number,140973,317
+East Flatbush,2013,Number,132564,317
+East Flatbush,2014,Number,137526,317
+East Flatbush,2015,Number,143028,317
+East Flatbush,2016,Number,145860,317
+Canarsie,2005,Number,188016,318
+Canarsie,2006,Number,204600,318
+Canarsie,2007,Number,202387,318
+Canarsie,2008,Number,206947,318
+Canarsie,2009,Number,213442,318
+Canarsie,2010,Number,202929,318
+Canarsie,2011,Number,205095,318
+Canarsie,2012,Number,204158,318
+Canarsie,2013,Number,201817,318
+Canarsie,2014,Number,210957,318
+Canarsie,2015,Number,213242,318
+Canarsie,2016,Number,208091,318
+Astoria,2005,Number,196854,401
+Astoria,2006,Number,190247,401
+Astoria,2007,Number,175303,401
+Astoria,2008,Number,178480,401
+Astoria,2009,Number,176394,401
+Astoria,2010,Number,166666,401
+Astoria,2011,Number,170174,401
+Astoria,2012,Number,165035,401
+Astoria,2013,Number,178585,401
+Astoria,2014,Number,182860,401
+Astoria,2015,Number,175460,401
+Astoria,2016,Number,171988,401
+Sunnyside/Woodside,2005,Number,138863,402
+Sunnyside/Woodside,2006,Number,128673,402
+Sunnyside/Woodside,2007,Number,139138,402
+Sunnyside/Woodside,2008,Number,132863,402
+Sunnyside/Woodside,2009,Number,131011,402
+Sunnyside/Woodside,2010,Number,125229,402
+Sunnyside/Woodside,2011,Number,130059,402
+Sunnyside/Woodside,2012,Number,140399,402
+Sunnyside/Woodside,2013,Number,133375,402
+Sunnyside/Woodside,2014,Number,150100,402
+Sunnyside/Woodside,2015,Number,144899,402
+Sunnyside/Woodside,2016,Number,135767,402
+Jackson Heights,2005,Number,181014,403
+Jackson Heights,2006,Number,176387,403
+Jackson Heights,2007,Number,182141,403
+Jackson Heights,2008,Number,190173,403
+Jackson Heights,2009,Number,187902,403
+Jackson Heights,2010,Number,170161,403
+Jackson Heights,2011,Number,185667,403
+Jackson Heights,2012,Number,179741,403
+Jackson Heights,2013,Number,192889,403
+Jackson Heights,2014,Number,182354,403
+Jackson Heights,2015,Number,186415,403
+Jackson Heights,2016,Number,166144,403
+Elmhurst/Corona,2005,Number,139422,404
+Elmhurst/Corona,2006,Number,138593,404
+Elmhurst/Corona,2007,Number,140182,404
+Elmhurst/Corona,2008,Number,143406,404
+Elmhurst/Corona,2009,Number,147604,404
+Elmhurst/Corona,2010,Number,136517,404
+Elmhurst/Corona,2011,Number,137879,404
+Elmhurst/Corona,2012,Number,140591,404
+Elmhurst/Corona,2013,Number,150519,404
+Elmhurst/Corona,2014,Number,154740,404
+Elmhurst/Corona,2015,Number,129606,404
+Elmhurst/Corona,2016,Number,141167,404
+Ridgewood/Glendale,2005,Number,169055,405
+Ridgewood/Glendale,2006,Number,179768,405
+Ridgewood/Glendale,2007,Number,187195,405
+Ridgewood/Glendale,2008,Number,167834,405
+Ridgewood/Glendale,2009,Number,187972,405
+Ridgewood/Glendale,2010,Number,180932,405
+Ridgewood/Glendale,2011,Number,173357,405
+Ridgewood/Glendale,2012,Number,164301,405
+Ridgewood/Glendale,2013,Number,163960,405
+Ridgewood/Glendale,2014,Number,168488,405
+Ridgewood/Glendale,2015,Number,186458,405
+Ridgewood/Glendale,2016,Number,192600,405
+Rego Park/Forest Hills,2005,Number,116490,406
+Rego Park/Forest Hills,2006,Number,116418,406
+Rego Park/Forest Hills,2007,Number,117931,406
+Rego Park/Forest Hills,2008,Number,116831,406
+Rego Park/Forest Hills,2009,Number,114945,406
+Rego Park/Forest Hills,2010,Number,114462,406
+Rego Park/Forest Hills,2011,Number,111930,406
+Rego Park/Forest Hills,2012,Number,115976,406
+Rego Park/Forest Hills,2013,Number,116101,406
+Rego Park/Forest Hills,2014,Number,107893,406
+Rego Park/Forest Hills,2015,Number,127938,406
+Rego Park/Forest Hills,2016,Number,111730,406
+Flushing,2005,Number,241947,407
+Flushing,2006,Number,246542,407
+Flushing,2007,Number,234382,407
+Flushing,2008,Number,254571,407
+Flushing,2009,Number,264586,407
+Flushing,2010,Number,257327,407
+Flushing,2011,Number,247116,407
+Flushing,2012,Number,250135,407
+Flushing,2013,Number,250391,407
+Flushing,2014,Number,256742,407
+Flushing,2015,Number,247398,407
+Flushing,2016,Number,245864,407
+Fresh Meadows/Briarwood,2005,Number,137827,408
+Fresh Meadows/Briarwood,2006,Number,147374,408
+Fresh Meadows/Briarwood,2007,Number,151246,408
+Fresh Meadows/Briarwood,2008,Number,143686,408
+Fresh Meadows/Briarwood,2009,Number,161047,408
+Fresh Meadows/Briarwood,2010,Number,138004,408
+Fresh Meadows/Briarwood,2011,Number,144431,408
+Fresh Meadows/Briarwood,2012,Number,157855,408
+Fresh Meadows/Briarwood,2013,Number,155659,408
+Fresh Meadows/Briarwood,2014,Number,159330,408
+Fresh Meadows/Briarwood,2015,Number,161612,408
+Fresh Meadows/Briarwood,2016,Number,166115,408
+Woodhaven,2005,Number,132751,409
+Woodhaven,2006,Number,138679,409
+Woodhaven,2007,Number,146114,409
+Woodhaven,2008,Number,155865,409
+Woodhaven,2009,Number,146340,409
+Woodhaven,2010,Number,135589,409
+Woodhaven,2011,Number,155315,409
+Woodhaven,2012,Number,148177,409
+Woodhaven,2013,Number,158754,409
+Woodhaven,2014,Number,151202,409
+Woodhaven,2015,Number,158478,409
+Woodhaven,2016,Number,164094,409
+Howard Beach,2005,Number,124086,410
+Howard Beach,2006,Number,124623,410
+Howard Beach,2007,Number,138052,410
+Howard Beach,2008,Number,140123,410
+Howard Beach,2009,Number,125305,410
+Howard Beach,2010,Number,135257,410
+Howard Beach,2011,Number,132853,410
+Howard Beach,2012,Number,133178,410
+Howard Beach,2013,Number,121383,410
+Howard Beach,2014,Number,134827,410
+Howard Beach,2015,Number,135849,410
+Howard Beach,2016,Number,135422,410
+Bayside,2005,Number,111573,411
+Bayside,2006,Number,117784,411
+Bayside,2007,Number,123412,411
+Bayside,2008,Number,124989,411
+Bayside,2009,Number,123621,411
+Bayside,2010,Number,120428,411
+Bayside,2011,Number,118669,411
+Bayside,2012,Number,123146,411
+Bayside,2013,Number,118250,411
+Bayside,2014,Number,120996,411
+Bayside,2015,Number,113563,411
+Bayside,2016,Number,117381,411
+Jamaica/St. Albans,2005,Number,224774,412
+Jamaica/St. Albans,2006,Number,216115,412
+Jamaica/St. Albans,2007,Number,218120,412
+Jamaica/St. Albans,2008,Number,222807,412
+Jamaica/St. Albans,2009,Number,220918,412
+Jamaica/St. Albans,2010,Number,222074,412
+Jamaica/St. Albans,2011,Number,231813,412
+Jamaica/St. Albans,2012,Number,228128,412
+Jamaica/St. Albans,2013,Number,246150,412
+Jamaica/St. Albans,2014,Number,251002,412
+Jamaica/St. Albans,2015,Number,246946,412
+Jamaica/St. Albans,2016,Number,243300,412
+Queens Village,2005,Number,188995,413
+Queens Village,2006,Number,213704,413
+Queens Village,2007,Number,202070,413
+Queens Village,2008,Number,203425,413
+Queens Village,2009,Number,201542,413
+Queens Village,2010,Number,207164,413
+Queens Village,2011,Number,200640,413
+Queens Village,2012,Number,197751,413
+Queens Village,2013,Number,197890,413
+Queens Village,2014,Number,193102,413
+Queens Village,2015,Number,203013,413
+Queens Village,2016,Number,214163,413
+The Rockaways,2005,Number,111688,414
+The Rockaways,2006,Number,120268,414
+The Rockaways,2007,Number,115052,414
+The Rockaways,2008,Number,117954,414
+The Rockaways,2009,Number,117525,414
+The Rockaways,2010,Number,124031,414
+The Rockaways,2011,Number,107945,414
+The Rockaways,2012,Number,128358,414
+The Rockaways,2013,Number,112269,414
+The Rockaways,2014,Number,107944,414
+The Rockaways,2015,Number,121595,414
+The Rockaways,2016,Number,127381,414
+St. George,2005,Number,168545,501
+St. George,2006,Number,168395,501
+St. George,2007,Number,182833,501
+St. George,2008,Number,179225,501
+St. George,2009,Number,179381,501
+St. George,2010,Number,172052,501
+St. George,2011,Number,173412,501
+St. George,2012,Number,175699,501
+St. George,2013,Number,177182,501
+St. George,2014,Number,176338,501
+St. George,2015,Number,170280,501
+St. George,2016,Number,174943,501
+South Beach,2005,Number,131695,502
+South Beach,2006,Number,133736,502
+South Beach,2007,Number,134188,502
+South Beach,2008,Number,142188,502
+South Beach,2009,Number,150278,502
+South Beach,2010,Number,132502,502
+South Beach,2011,Number,125257,502
+South Beach,2012,Number,131923,502
+South Beach,2013,Number,136769,502
+South Beach,2014,Number,126200,502
+South Beach,2015,Number,136638,502
+South Beach,2016,Number,142815,502
+Tottenville,2005,Number,155104,503
+Tottenville,2006,Number,175246,503
+Tottenville,2007,Number,164592,503
+Tottenville,2008,Number,165994,503
+Tottenville,2009,Number,162071,503
+Tottenville,2010,Number,164809,503
+Tottenville,2011,Number,171798,503
+Tottenville,2012,Number,163106,503
+Tottenville,2013,Number,158670,503
+Tottenville,2014,Number,170741,503
+Tottenville,2015,Number,167640,503
+Tottenville,2016,Number,158257,503
+Bronx,2005,Number,1309640,36005
+Bronx,2006,Number,1361473,36005
+Bronx,2007,Number,1373659,36005
+Bronx,2008,Number,1391903,36005
+Bronx,2009,Number,1397287,36005
+Bronx,2010,Number,1386657,36005
+Bronx,2011,Number,1392002,36005
+Bronx,2012,Number,1408473,36005
+Bronx,2013,Number,1418733,36005
+Bronx,2014,Number,1438159,36005
+Bronx,2015,Number,1455444,36005
+Bronx,2016,Number,1455720,36005
+Brooklyn,2005,Number,2446016,36047
+Brooklyn,2006,Number,2508820,36047
+Brooklyn,2007,Number,2528050,36047
+Brooklyn,2008,Number,2556598,36047
+Brooklyn,2009,Number,2567098,36047
+Brooklyn,2010,Number,2508340,36047
+Brooklyn,2011,Number,2532645,36047
+Brooklyn,2012,Number,2565635,36047
+Brooklyn,2013,Number,2592149,36047
+Brooklyn,2014,Number,2621793,36047
+Brooklyn,2015,Number,2636735,36047
+Brooklyn,2016,Number,2629150,36047
+Manhattan,2005,Number,1529774,36061
+Manhattan,2006,Number,1611581,36061
+Manhattan,2007,Number,1620867,36061
+Manhattan,2008,Number,1634795,36061
+Manhattan,2009,Number,1629054,36061
+Manhattan,2010,Number,1586698,36061
+Manhattan,2011,Number,1601948,36061
+Manhattan,2012,Number,1619090,36061
+Manhattan,2013,Number,1626159,36061
+Manhattan,2014,Number,1636268,36061
+Manhattan,2015,Number,1644518,36061
+Manhattan,2016,Number,1643734,36061
+Queens,2005,Number,2215339,36081
+Queens,2006,Number,2255175,36081
+Queens,2007,Number,2270338,36081
+Queens,2008,Number,2293007,36081
+Queens,2009,Number,2306712,36081
+Queens,2010,Number,2233841,36081
+Queens,2011,Number,2247848,36081
+Queens,2012,Number,2272771,36081
+Queens,2013,Number,2296175,36081
+Queens,2014,Number,2321580,36081
+Queens,2015,Number,2339150,36081
+Queens,2016,Number,2333054,36081
+Staten Island,2005,Number,455344,36085
+Staten Island,2006,Number,477377,36085
+Staten Island,2007,Number,481613,36085
+Staten Island,2008,Number,487407,36085
+Staten Island,2009,Number,491730,36085
+Staten Island,2010,Number,469363,36085
+Staten Island,2011,Number,470467,36085
+Staten Island,2012,Number,470728,36085
+Staten Island,2013,Number,472621,36085
+Staten Island,2014,Number,473279,36085
+Staten Island,2015,Number,474558,36085
+Staten Island,2016,Number,476015,36085
+New York City,2005,Number,7956113,3651000
+New York City,2006,Number,8214426,3651000
+New York City,2007,Number,8274527,3651000
+New York City,2008,Number,8363710,3651000
+New York City,2009,Number,8391881,3651000
+New York City,2010,Number,8184899,3651000
+New York City,2011,Number,8244910,3651000
+New York City,2012,Number,8336697,3651000
+New York City,2013,Number,8405837,3651000
+New York City,2014,Number,8491079,3651000
+New York City,2015,Number,8550405,3651000
+New York City,2016,Number,8537673,3651000
+Battery Park/Tribeca,2017,Number,60165.46615,101
+Greenwich Village,2017,Number,88816.53385,102
+Lower East Side,2017,Number,160490,103
+Chelsea/Clinton,2017,Number,101603.53526,104
+Midtown Business District,2017,Number,50851.46474,105
+Murray Hill/Stuyvesant,2017,Number,149674,106
+Upper West Side,2017,Number,207134,107
+Upper East Side,2017,Number,214219,108
+Manhattanville,2017,Number,136017,109
+Central Harlem,2017,Number,147442,110
+East Harlem,2017,Number,128316,111
+Washington Heights,2017,Number,219998,112
+Mott Haven,2017,Number,99526.21296,201
+Hunts Point,2017,Number,56830.78704,202
+Morrisania,2017,Number,92015.20058,203
+Concourse/Highbridge,2017,Number,149710,204
+University Heights,2017,Number,148339,205
+East Tremont,2017,Number,96059.79942,206
+Bedford Park,2017,Number,143540,207
+Riverdale,2017,Number,113242,208
+Unionport/Soundview,2017,Number,187975,209
+Throgs Neck,2017,Number,113395,210
+Pelham Parkway,2017,Number,120116,211
+Williamsbridge,2017,Number,150411,212
+Williamsburg/Greenpoint,2017,Number,152002,301
+Fort Greene/Brooklyn Hts,2017,Number,135444,302
+Bedford Stuyvesant,2017,Number,142027,303
+Bushwick,2017,Number,140474,304
+East New York,2017,Number,176471,305
+Park Slope,2017,Number,116209,306
+Sunset Park,2017,Number,144332,307
+Crown Heights North,2017,Number,141725,308
+Crown Heights South,2017,Number,113212,309
+Bay Ridge,2017,Number,123488,310
+Bensonhurst,2017,Number,205850,311
+Borough Park,2017,Number,146556,312
+Coney Island,2017,Number,122009,313
+Flatbush/Midwood,2017,Number,150707,314
+Sheepshead Bay,2017,Number,171030,315
+Brownsville,2017,Number,111511,316
+East Flatbush,2017,Number,140087,317
+Canarsie,2017,Number,215637,318
+Astoria,2017,Number,164321,401
+Sunnyside/Woodside,2017,Number,133822,402
+Jackson Heights,2017,Number,170222,403
+Elmhurst/Corona,2017,Number,146301,404
+Ridgewood/Glendale,2017,Number,199043,405
+Rego Park/Forest Hills,2017,Number,118922,406
+Flushing,2017,Number,260282,407
+Fresh Meadows/Briarwood,2017,Number,164291,408
+Woodhaven,2017,Number,152283,409
+Howard Beach,2017,Number,139323,410
+Bayside,2017,Number,118670,411
+Jamaica/St. Albans,2017,Number,249331,412
+Queens Village,2017,Number,208786,413
+The Rockaways,2017,Number,133051,414
+St. George,2017,Number,176632,501
+South Beach,2017,Number,143766,502
+Tottenville,2017,Number,159060,503
+Bronx,2017,Number,1471160,36005
+Brooklyn,2017,Number,2648771,36047
+Manhattan,2017,Number,1664727,36061
+Queens,2017,Number,2358582,36081
+Staten Island,2017,Number,479458,36085
+New York City,2017,Number,8622698,3651000
+Battery Park/Tribeca,2018,Number,61375.7862,101
+Greenwich Village,2018,Number,90603.2138,102
+Lower East Side,2018,Number,155408,103
+Chelsea/Clinton,2018,Number,110265.37743,104
+Midtown Business District,2018,Number,55186.62257,105
+Murray Hill/Stuyvesant,2018,Number,143582,106
+Upper West Side,2018,Number,191222,107
+Upper East Side,2018,Number,204469,108
+Manhattanville,2018,Number,145440,109
+Central Harlem,2018,Number,146309,110
+East Harlem,2018,Number,110800,111
+Washington Heights,2018,Number,214040,112
+Mott Haven,2018,Number,104393.1356,201
+Hunts Point,2018,Number,59609.8644,202
+Morrisania,2018,Number,85841.38792,203
+Concourse/Highbridge,2018,Number,136636,204
+University Heights,2018,Number,139732,205
+East Tremont,2018,Number,89614.61208,206
+Bedford Park,2018,Number,133784,207
+Riverdale,2018,Number,119846,208
+Unionport/Soundview,2018,Number,182874,209
+Throgs Neck,2018,Number,119071,210
+Pelham Parkway,2018,Number,124931,211
+Williamsbridge,2018,Number,135799,212
+Williamsburg/Greenpoint,2018,Number,162381,301
+Fort Greene/Brooklyn Hts,2018,Number,145843,302
+Bedford Stuyvesant,2018,Number,155117,303
+Bushwick,2018,Number,121188,304
+East New York,2018,Number,171170,305
+Park Slope,2018,Number,116351,306
+Sunset Park,2018,Number,132875,307
+Crown Heights North,2018,Number,136367,308
+Crown Heights South,2018,Number,111448,309
+Bay Ridge,2018,Number,125200,310
+Bensonhurst,2018,Number,186850,311
+Borough Park,2018,Number,138570,312
+Coney Island,2018,Number,113339,313
+Flatbush/Midwood,2018,Number,154833,314
+Sheepshead Bay,2018,Number,158213,315
+Brownsville,2018,Number,122128,316
+East Flatbush,2018,Number,135931,317
+Canarsie,2018,Number,195026,318
+Astoria,2018,Number,160871,401
+Sunnyside/Woodside,2018,Number,137490,402
+Jackson Heights,2018,Number,181787,403
+Elmhurst/Corona,2018,Number,150131,404
+Ridgewood/Glendale,2018,Number,186441,405
+Rego Park/Forest Hills,2018,Number,118105,406
+Flushing,2018,Number,239000,407
+Fresh Meadows/Briarwood,2018,Number,164615,408
+Woodhaven,2018,Number,139079,409
+Howard Beach,2018,Number,128937,410
+Bayside,2018,Number,115744,411
+Jamaica/St. Albans,2018,Number,241539,412
+Queens Village,2018,Number,187761,413
+The Rockaways,2018,Number,127676,414
+St. George,2018,Number,174606,501
+South Beach,2018,Number,137973,502
+Tottenville,2018,Number,163600,503
+Bronx,2018,Number,1432132,36005
+Brooklyn,2018,Number,2582830,36047
+Manhattan,2018,Number,1628701,36061
+Queens,2018,Number,2278906,36081
+Staten Island,2018,Number,476179,36085
+New York City,2018,Number,8398748,3651000
+Kingsbridge - Riverdale,2010,Number,92916.61363,uhf101
+Northeast Bronx,2010,Number,198154.50734,uhf102
+Fordham - Bronx Park,2010,Number,250675.54979,uhf103
+Pelham - Throgs Neck,2010,Number,295873.70454,uhf104
+Crotona - Tremont,2010,Number,206303.18347,uhf105
+High Bridge - Morrisania,2010,Number,208594.10461,uhf106
+Hunts Point - Mott Haven,2010,Number,134139.33663,uhf107
+Greenpoint,2010,Number,132398.36463,uhf201
+Downtown  - Heights - Slope,2010,Number,239344.35526,uhf202
+Bedford Stuyvesant - Crown Heights,2010,Number,332889.13869,uhf203
+East New York,2010,Number,192569.43482,uhf204
+Sunset Park,2010,Number,121507.0297,uhf205
+Borough Park,2010,Number,326133.83088,uhf206
+East Flatbush - Flatbush,2010,Number,301805.66418,uhf207
+Canarsie - Flatlands,2010,Number,210595.25662,uhf208
+Bensonhurst - Bay Ridge,2010,Number,195887.56796,uhf209
+Coney Island - Sheepshead Bay,2010,Number,283017.24827,uhf210
+Williamsburg - Bushwick,2010,Number,220429.87947,uhf211
+Washington Heights - Inwood,2010,Number,267068.19991,uhf301
+Central Harlem - Morningside Heights,2010,Number,182750.57588,uhf302
+East Harlem,2010,Number,112967.66932,uhf303
+Upper West Side,2010,Number,208876.91816,uhf304
+Upper East Side,2010,Number,211313.77716,uhf305
+Chelsea - Clinton,2010,Number,146989.62434,uhf306
+Gramercy Park -  Murray Hill,2010,Number,126495.2492,uhf307
+Greenwich Village - Soho,2010,Number,81913.6653,uhf308
+Union Square - Lower East Side,2010,Number,183826.70169,uhf309
+Lower Manhattan,2010,Number,57991.45207,uhf310
+Long Island City - Astoria,2010,Number,206746.7315,uhf401
+West Queens,2010,Number,446810.15992,uhf402
+Flushing - Clearview,2010,Number,241915.72959,uhf403
+Bayside - Little Neck,2010,Number,86485.79258,uhf404
+Ridgewood - Forest Hills,2010,Number,257249.68043,uhf405
+Fresh Meadows,2010,Number,98757.25123,uhf406
+Southwest Queens,2010,Number,279835.16204,uhf407
+Jamaica,2010,Number,309210.35308,uhf408
+Southeast Queens,2010,Number,208148.47475,uhf409
+Rockaway,2010,Number,124498.54037,uhf410
+Port  Richmond,2010,Number,66662.5436,uhf501
+Stapleton - St. George,2010,Number,120477.99712,uhf502
+Willowbrook,2010,Number,87359.37992,uhf503
+South Beach - Tottenville,2010,Number,194870.07936,uhf504
+Kingsbridge - Riverdale,2011,Number,92860.55806,uhf101
+Northeast Bronx,2011,Number,198244.21681,uhf102
+Fordham - Bronx Park,2011,Number,252855.40649,uhf103
+Pelham - Throgs Neck,2011,Number,297098.17254,uhf104
+Crotona - Tremont,2011,Number,208392.35697,uhf105
+High Bridge - Morrisania,2011,Number,210553.54514,uhf106
+Hunts Point - Mott Haven,2011,Number,135626.32399,uhf107
+Greenpoint,2011,Number,131575.1576,uhf201
+Downtown  - Heights - Slope,2011,Number,239991.57825,uhf202
+Bedford Stuyvesant - Crown Heights,2011,Number,331766.85038,uhf203
+East New York,2011,Number,191379.60831,uhf204
+Sunset Park,2011,Number,121126.80696,uhf205
+Borough Park,2011,Number,322874.94334,uhf206
+East Flatbush - Flatbush,2011,Number,300848.69159,uhf207
+Canarsie - Flatlands,2011,Number,209055.60556,uhf208
+Bensonhurst - Bay Ridge,2011,Number,193812.32539,uhf209
+Coney Island - Sheepshead Bay,2011,Number,279113.84167,uhf210
+Williamsburg - Bushwick,2011,Number,219274.59095,uhf211
+Washington Heights - Inwood,2011,Number,267375.6016,uhf301
+Central Harlem - Morningside Heights,2011,Number,182526.26619,uhf302
+East Harlem,2011,Number,113131.12073,uhf303
+Upper West Side,2011,Number,211737.2941,uhf304
+Upper East Side,2011,Number,214721.50856,uhf305
+Chelsea - Clinton,2011,Number,148625.12099,uhf306
+Gramercy Park -  Murray Hill,2011,Number,127988.9144,uhf307
+Greenwich Village - Soho,2011,Number,82989.34593,uhf308
+Union Square - Lower East Side,2011,Number,185130.17088,uhf309
+Lower Manhattan,2011,Number,58882.33207,uhf310
+Long Island City - Astoria,2011,Number,206993.75222,uhf401
+West Queens,2011,Number,449813.84942,uhf402
+Flushing - Clearview,2011,Number,243249.55188,uhf403
+Bayside - Little Neck,2011,Number,86464.19283,uhf404
+Ridgewood - Forest Hills,2011,Number,256430.90495,uhf405
+Fresh Meadows,2011,Number,98956.50993,uhf406
+Southwest Queens,2011,Number,281218.70068,uhf407
+Jamaica,2011,Number,313472.01345,uhf408
+Southeast Queens,2011,Number,210935.7507,uhf409
+Rockaway,2011,Number,124866.5185,uhf410
+Port  Richmond,2011,Number,67066.40079,uhf501
+Stapleton - St. George,2011,Number,121230.59308,uhf502
+Willowbrook,2011,Number,87725.24493,uhf503
+South Beach - Tottenville,2011,Number,194980.7612,uhf504
+Kingsbridge - Riverdale,2012,Number,93260.03546,uhf101
+Northeast Bronx,2012,Number,199562.5978,uhf102
+Fordham - Bronx Park,2012,Number,256005.93427,uhf103
+Pelham - Throgs Neck,2012,Number,299802.70599,uhf104
+Crotona - Tremont,2012,Number,211176.78141,uhf105
+High Bridge - Morrisania,2012,Number,213259.92904,uhf106
+Hunts Point - Mott Haven,2012,Number,137558.17602,uhf107
+Greenpoint,2012,Number,133583.73893,uhf201
+Downtown  - Heights - Slope,2012,Number,245392.67011,uhf202
+Bedford Stuyvesant - Crown Heights,2012,Number,333458.36625,uhf203
+East New York,2012,Number,191760.29654,uhf204
+Sunset Park,2012,Number,123258.80713,uhf205
+Borough Park,2012,Number,328041.07534,uhf206
+East Flatbush - Flatbush,2012,Number,302547.30748,uhf207
+Canarsie - Flatlands,2012,Number,209910.37082,uhf208
+Bensonhurst - Bay Ridge,2012,Number,197271.25757,uhf209
+Coney Island - Sheepshead Bay,2012,Number,282751.63751,uhf210
+Williamsburg - Bushwick,2012,Number,220899.47232,uhf211
+Washington Heights - Inwood,2012,Number,270384.98259,uhf301
+Central Harlem - Morningside Heights,2012,Number,183345.01887,uhf302
+East Harlem,2012,Number,114195.18185,uhf303
+Upper West Side,2012,Number,214136.76757,uhf304
+Upper East Side,2012,Number,217217.05404,uhf305
+Chelsea - Clinton,2012,Number,149929.96295,uhf306
+Gramercy Park -  Murray Hill,2012,Number,129281.69709,uhf307
+Greenwich Village - Soho,2012,Number,83762.43504,uhf308
+Union Square - Lower East Side,2012,Number,186825.51717,uhf309
+Lower Manhattan,2012,Number,59598.7402,uhf310
+Long Island City - Astoria,2012,Number,208641.95946,uhf401
+West Queens,2012,Number,454424.17392,uhf402
+Flushing - Clearview,2012,Number,246138.0205,uhf403
+Bayside - Little Neck,2012,Number,87090.29663,uhf404
+Ridgewood - Forest Hills,2012,Number,257404.52046,uhf405
+Fresh Meadows,2012,Number,99649.53538,uhf406
+Southwest Queens,2012,Number,283624.70636,uhf407
+Jamaica,2012,Number,315349.7249,uhf408
+Southeast Queens,2012,Number,211940.89295,uhf409
+Rockaway,2012,Number,124931.65204,uhf410
+Port  Richmond,2012,Number,66960.82779,uhf501
+Stapleton - St. George,2012,Number,121216.13884,uhf502
+Willowbrook,2012,Number,87837.30559,uhf503
+South Beach - Tottenville,2012,Number,194643.72778,uhf504
+Kingsbridge - Riverdale,2013,Number,93330.87785,uhf101
+Northeast Bronx,2013,Number,200810.60422,uhf102
+Fordham - Bronx Park,2013,Number,258295.96301,uhf103
+Pelham - Throgs Neck,2013,Number,301600.75046,uhf104
+Crotona - Tremont,2013,Number,213342.62943,uhf105
+High Bridge - Morrisania,2013,Number,215421.6586,uhf106
+Hunts Point - Mott Haven,2013,Number,139076.16644,uhf107
+Greenpoint,2013,Number,135069.42115,uhf201
+Downtown  - Heights - Slope,2013,Number,249927.28318,uhf202
+Bedford Stuyvesant - Crown Heights,2013,Number,334161.84717,uhf203
+East New York,2013,Number,191595.02353,uhf204
+Sunset Park,2013,Number,124850.70372,uhf205
+Borough Park,2013,Number,332092.5032,uhf206
+East Flatbush - Flatbush,2013,Number,303428.41317,uhf207
+Canarsie - Flatlands,2013,Number,210200.63561,uhf208
+Bensonhurst - Bay Ridge,2013,Number,199987.70591,uhf209
+Coney Island - Sheepshead Bay,2013,Number,285437.94952,uhf210
+Williamsburg - Bushwick,2013,Number,221749.51385,uhf211
+Washington Heights - Inwood,2013,Number,271200.1152,uhf301
+Central Harlem - Morningside Heights,2013,Number,182935.53252,uhf302
+East Harlem,2013,Number,114354.20733,uhf303
+Upper West Side,2013,Number,215023.58489,uhf304
+Upper East Side,2013,Number,218181.44772,uhf305
+Chelsea - Clinton,2013,Number,150035.74092,uhf306
+Gramercy Park -  Murray Hill,2013,Number,129679.69626,uhf307
+Greenwich Village - Soho,2013,Number,83887.57219,uhf308
+Union Square - Lower East Side,2013,Number,187121.40789,uhf309
+Lower Manhattan,2013,Number,59829.40219,uhf310
+Long Island City - Astoria,2013,Number,210117.38138,uhf401
+West Queens,2013,Number,458210.31197,uhf402
+Flushing - Clearview,2013,Number,248654.05111,uhf403
+Bayside - Little Neck,2013,Number,87584.66622,uhf404
+Ridgewood - Forest Hills,2013,Number,257994.88307,uhf405
+Fresh Meadows,2013,Number,100255.51682,uhf406
+Southwest Queens,2013,Number,285671.86212,uhf407
+Jamaica,2013,Number,317538.67077,uhf408
+Southeast Queens,2013,Number,213169.10282,uhf409
+Rockaway,2013,Number,125016.19661,uhf410
+Port  Richmond,2013,Number,67330.48348,uhf501
+Stapleton - St. George,2013,Number,121828.80299,uhf502
+Willowbrook,2013,Number,88156.60855,uhf503
+South Beach - Tottenville,2013,Number,194582.10498,uhf504
+Kingsbridge - Riverdale,2014,Number,93464.59321,uhf101
+Northeast Bronx,2014,Number,201947.39175,uhf102
+Fordham - Bronx Park,2014,Number,260297.10241,uhf103
+Pelham - Throgs Neck,2014,Number,303326.9519,uhf104
+Crotona - Tremont,2014,Number,215122.37749,uhf105
+High Bridge - Morrisania,2014,Number,217229.85845,uhf106
+Hunts Point - Mott Haven,2014,Number,140333.03478,uhf107
+Greenpoint,2014,Number,136251.89583,uhf201
+Downtown  - Heights - Slope,2014,Number,253710.88656,uhf202
+Bedford Stuyvesant - Crown Heights,2014,Number,334023.79556,uhf203
+East New York,2014,Number,190984.96859,uhf204
+Sunset Park,2014,Number,126200.18706,uhf205
+Borough Park,2014,Number,335633.92336,uhf206
+East Flatbush - Flatbush,2014,Number,303640.91392,uhf207
+Canarsie - Flatlands,2014,Number,210017.88825,uhf208
+Bensonhurst - Bay Ridge,2014,Number,202366.11783,uhf209
+Coney Island - Sheepshead Bay,2014,Number,287701.23745,uhf210
+Williamsburg - Bushwick,2014,Number,222148.18559,uhf211
+Washington Heights - Inwood,2014,Number,271566.54878,uhf301
+Central Harlem - Morningside Heights,2014,Number,182327.15392,uhf302
+East Harlem,2014,Number,114372.62599,uhf303
+Upper West Side,2014,Number,215781.28745,uhf304
+Upper East Side,2014,Number,218880.43625,uhf305
+Chelsea - Clinton,2014,Number,150158.56971,uhf306
+Gramercy Park -  Murray Hill,2014,Number,130171.02352,uhf307
+Greenwich Village - Soho,2014,Number,84045.09145,uhf308
+Union Square - Lower East Side,2014,Number,187756.10605,uhf309
+Lower Manhattan,2014,Number,60102.95886,uhf310
+Long Island City - Astoria,2014,Number,211426.63321,uhf401
+West Queens,2014,Number,461023.67194,uhf402
+Flushing - Clearview,2014,Number,251213.95424,uhf403
+Bayside - Little Neck,2014,Number,88110.62233,uhf404
+Ridgewood - Forest Hills,2014,Number,258389.57923,uhf405
+Fresh Meadows,2014,Number,100825.33651,uhf406
+Southwest Queens,2014,Number,287320.70006,uhf407
+Jamaica,2014,Number,318823.01883,uhf408
+Southeast Queens,2014,Number,213831.44372,uhf409
+Rockaway,2014,Number,124783.92794,uhf410
+Port  Richmond,2014,Number,67529.78141,uhf501
+Stapleton - St. George,2014,Number,122160.24499,uhf502
+Willowbrook,2014,Number,88376.06203,uhf503
+South Beach - Tottenville,2014,Number,194008.91157,uhf504
+Kingsbridge - Riverdale,2015,Number,93692.75037,uhf101
+Northeast Bronx,2015,Number,203034.88421,uhf102
+Fordham - Bronx Park,2015,Number,262275.25623,uhf103
+Pelham - Throgs Neck,2015,Number,305281.75945,uhf104
+Crotona - Tremont,2015,Number,216806.68977,uhf105
+High Bridge - Morrisania,2015,Number,218940.90803,uhf106
+Hunts Point - Mott Haven,2015,Number,141499.56195,uhf107
+Greenpoint,2015,Number,137046.47316,uhf201
+Downtown  - Heights - Slope,2015,Number,256802.42099,uhf202
+Bedford Stuyvesant - Crown Heights,2015,Number,332924.2937,uhf203
+East New York,2015,Number,189838.88176,uhf204
+Sunset Park,2015,Number,127218.11173,uhf205
+Borough Park,2015,Number,338481.64932,uhf206
+East Flatbush - Flatbush,2015,Number,303040.53806,uhf207
+Canarsie - Flatlands,2015,Number,209328.84552,uhf208
+Bensonhurst - Bay Ridge,2015,Number,204400.53526,uhf209
+Coney Island - Sheepshead Bay,2015,Number,289618.51377,uhf210
+Williamsburg - Bushwick,2015,Number,221906.73674,uhf211
+Washington Heights - Inwood,2015,Number,272427.93822,uhf301
+Central Harlem - Morningside Heights,2015,Number,182161.23031,uhf302
+East Harlem,2015,Number,114665.46349,uhf303
+Upper West Side,2015,Number,216733.54554,uhf304
+Upper East Side,2015,Number,219658.8965,uhf305
+Chelsea - Clinton,2015,Number,150506.74954,uhf306
+Gramercy Park -  Murray Hill,2015,Number,130847.92987,uhf307
+Greenwich Village - Soho,2015,Number,84292.71813,uhf308
+Union Square - Lower East Side,2015,Number,188873.9543,uhf309
+Lower Manhattan,2015,Number,60490.71787,uhf310
+Long Island City - Astoria,2015,Number,212060.30449,uhf401
+West Queens,2015,Number,462738.52826,uhf402
+Flushing - Clearview,2015,Number,253337.05485,uhf403
+Bayside - Little Neck,2015,Number,88469.71431,uhf404
+Ridgewood - Forest Hills,2015,Number,258095.83047,uhf405
+Fresh Meadows,2015,Number,101174.25101,uhf406
+Southwest Queens,2015,Number,288376.40914,uhf407
+Jamaica,2015,Number,319867.66209,uhf408
+Southeast Queens,2015,Number,214382.29793,uhf409
+Rockaway,2015,Number,124359.99366,uhf410
+Port  Richmond,2015,Number,67777.50169,uhf501
+Stapleton - St. George,2015,Number,122531.33137,uhf502
+Willowbrook,2015,Number,88656.00286,uhf503
+South Beach - Tottenville,2015,Number,193556.16408,uhf504
+Kingsbridge - Riverdale,2016,Number,93622.6398,uhf101
+Northeast Bronx,2016,Number,203437.18702,uhf102
+Fordham - Bronx Park,2016,Number,263343.66738,uhf103
+Pelham - Throgs Neck,2016,Number,306250.73491,uhf104
+Crotona - Tremont,2016,Number,217744.0836,uhf105
+High Bridge - Morrisania,2016,Number,219904.56252,uhf106
+Hunts Point - Mott Haven,2016,Number,142202.68476,uhf107
+Greenpoint,2016,Number,137394.53548,uhf201
+Downtown  - Heights - Slope,2016,Number,258948.90006,uhf202
+Bedford Stuyvesant - Crown Heights,2016,Number,331122.22692,uhf203
+East New York,2016,Number,188424.72279,uhf204
+Sunset Park,2016,Number,127905.06024,uhf205
+Borough Park,2016,Number,340070.58426,uhf206
+East Flatbush - Flatbush,2016,Number,301715.09068,uhf207
+Canarsie - Flatlands,2016,Number,208143.18185,uhf208
+Bensonhurst - Bay Ridge,2016,Number,205660.56903,uhf209
+Coney Island - Sheepshead Bay,2016,Number,290593.68343,uhf210
+Williamsburg - Bushwick,2016,Number,221253.44526,uhf211
+Washington Heights - Inwood,2016,Number,271834.19937,uhf301
+Central Harlem - Morningside Heights,2016,Number,181325.1647,uhf302
+East Harlem,2016,Number,114363.31063,uhf303
+Upper West Side,2016,Number,216962.41317,uhf304
+Upper East Side,2016,Number,219785.15908,uhf305
+Chelsea - Clinton,2016,Number,150382.96784,uhf306
+Gramercy Park -  Murray Hill,2016,Number,131193.67228,uhf307
+Greenwich Village - Soho,2016,Number,84300.94552,uhf308
+Union Square - Lower East Side,2016,Number,189254.0616,uhf309
+Lower Manhattan,2016,Number,60698.03981,uhf310
+Long Island City - Astoria,2016,Number,212083.59471,uhf401
+West Queens,2016,Number,462978.95891,uhf402
+Flushing - Clearview,2016,Number,254749.54808,uhf403
+Bayside - Little Neck,2016,Number,88611.61096,uhf404
+Ridgewood - Forest Hills,2016,Number,257153.61546,uhf405
+Fresh Meadows,2016,Number,101283.52175,uhf406
+Southwest Queens,2016,Number,288680.33097,uhf407
+Jamaica,2016,Number,320186.91047,uhf408
+Southeast Queens,2016,Number,214483.09557,uhf409
+Rockaway,2016,Number,123713.31912,uhf410
+Port  Richmond,2016,Number,68332.43568,uhf501
+Stapleton - St. George,2016,Number,123402.3917,uhf502
+Willowbrook,2016,Number,89229.23861,uhf503
+South Beach - Tottenville,2016,Number,193249.93401,uhf504
+Kingsbridge - Riverdale,2017,Number,93270.41339,uhf101
+Northeast Bronx,2017,Number,202666.56465,uhf102
+Fordham - Bronx Park,2017,Number,262431.44186,uhf103
+Pelham - Throgs Neck,2017,Number,305463.85152,uhf104
+Crotona - Tremont,2017,Number,216846.47541,uhf105
+High Bridge - Morrisania,2017,Number,219073.28992,uhf106
+Hunts Point - Mott Haven,2017,Number,141687.57326,uhf107
+Greenpoint,2017,Number,136611.93951,uhf201
+Downtown  - Heights - Slope,2017,Number,259005.61451,uhf202
+Bedford Stuyvesant - Crown Heights,2017,Number,328162.11356,uhf203
+East New York,2017,Number,186431.00328,uhf204
+Sunset Park,2017,Number,127364.97002,uhf205
+Borough Park,2017,Number,338791.05425,uhf206
+East Flatbush - Flatbush,2017,Number,299334.96567,uhf207
+Canarsie - Flatlands,2017,Number,206264.93102,uhf208
+Bensonhurst - Bay Ridge,2017,Number,205212.28769,uhf209
+Coney Island - Sheepshead Bay,2017,Number,289805.02265,uhf210
+Williamsburg - Bushwick,2017,Number,219401.09783,uhf211
+Washington Heights - Inwood,2017,Number,270132.13092,uhf301
+Central Harlem - Morningside Heights,2017,Number,179761.53879,uhf302
+East Harlem,2017,Number,113623.30172,uhf303
+Upper West Side,2017,Number,216363.1467,uhf304
+Upper East Side,2017,Number,219179.96551,uhf305
+Chelsea - Clinton,2017,Number,149674.98657,uhf306
+Gramercy Park -  Murray Hill,2017,Number,131094.35032,uhf307
+Greenwich Village - Soho,2017,Number,84037.67278,uhf308
+Union Square - Lower East Side,2017,Number,189025.16837,uhf309
+Lower Manhattan,2017,Number,60678.23843,uhf310
+Long Island City - Astoria,2017,Number,210760.49024,uhf401
+West Queens,2017,Number,460651.51431,uhf402
+Flushing - Clearview,2017,Number,254344.58945,uhf403
+Bayside - Little Neck,2017,Number,88133.92522,uhf404
+Ridgewood - Forest Hills,2017,Number,254714.25279,uhf405
+Fresh Meadows,2017,Number,100700.54804,uhf406
+Southwest Queens,2017,Number,287169.60801,uhf407
+Jamaica,2017,Number,318831.89591,uhf408
+Southeast Queens,2017,Number,213496.75429,uhf409
+Rockaway,2017,Number,122556.31161,uhf410
+Port  Richmond,2017,Number,68692.10527,uhf501
+Stapleton - St. George,2017,Number,124098.49923,uhf502
+Willowbrook,2017,Number,89999.08872,uhf503
+South Beach - Tottenville,2017,Number,192726.30678,uhf504
+Kingsbridge - Riverdale,2018,Number,92534.6045,uhf101
+Northeast Bronx,2018,Number,201521.85921,uhf102
+Fordham - Bronx Park,2018,Number,261272.90383,uhf103
+Pelham - Throgs Neck,2018,Number,304034.77552,uhf104
+Crotona - Tremont,2018,Number,215942.34603,uhf105
+High Bridge - Morrisania,2018,Number,218195.72238,uhf106
+Hunts Point - Mott Haven,2018,Number,141190.41853,uhf107
+Greenpoint,2018,Number,135943.83402,uhf201
+Downtown  - Heights - Slope,2018,Number,259325.02558,uhf202
+Bedford Stuyvesant - Crown Heights,2018,Number,325714.98246,uhf203
+East New York,2018,Number,184764.43328,uhf204
+Sunset Park,2018,Number,126721.0866,uhf205
+Borough Park,2018,Number,337152.76228,uhf206
+East Flatbush - Flatbush,2018,Number,297254.53109,uhf207
+Canarsie - Flatlands,2018,Number,204565.16199,uhf208
+Bensonhurst - Bay Ridge,2018,Number,204629.6616,uhf209
+Coney Island - Sheepshead Bay,2018,Number,288893.7477,uhf210
+Williamsburg - Bushwick,2018,Number,217864.77339,uhf211
+Washington Heights - Inwood,2018,Number,269141.85874,uhf301
+Central Harlem - Morningside Heights,2018,Number,179078.11471,uhf302
+East Harlem,2018,Number,113268.17302,uhf303
+Upper West Side,2018,Number,216284.08096,uhf304
+Upper East Side,2018,Number,219078.53381,uhf305
+Chelsea - Clinton,2018,Number,149437.68718,uhf306
+Gramercy Park -  Murray Hill,2018,Number,131358.22891,uhf307
+Greenwich Village - Soho,2018,Number,84055.45177,uhf308
+Union Square - Lower East Side,2018,Number,189305.02585,uhf309
+Lower Manhattan,2018,Number,60936.31176,uhf310
+Long Island City - Astoria,2018,Number,208828.30622,uhf401
+West Queens,2018,Number,457315.67636,uhf402
+Flushing - Clearview,2018,Number,253235.26906,uhf403
+Bayside - Little Neck,2018,Number,87431.63278,uhf404
+Ridgewood - Forest Hills,2018,Number,251726.0752,uhf405
+Fresh Meadows,2018,Number,99867.41663,uhf406
+Southwest Queens,2018,Number,284964.02589,uhf407
+Jamaica,2018,Number,316626.59214,uhf408
+Southeast Queens,2018,Number,211954.90848,uhf409
+Rockaway,2018,Number,121153.00052,uhf410
+Port  Richmond,2018,Number,68876.59813,uhf501
+Stapleton - St. George,2018,Number,124623.25132,uhf502
+Willowbrook,2018,Number,90834.28819,uhf503
+South Beach - Tottenville,2018,Number,191844.86235,uhf504
+Zip Code 10001,2011,Number,21097,10001
+Zip Code 10001,2012,Number,20579,10001
+Zip Code 10001,2013,Number,21966,10001
+Zip Code 10001,2014,Number,22767,10001
+Zip Code 10001,2015,Number,23537,10001
+Zip Code 10001,2016,Number,23332,10001
+Zip Code 10001,2017,Number,23947,10001
+Zip Code 10001,2018,Number,22924,10001
+Zip Code 10002,2011,Number,81335,10002
+Zip Code 10002,2012,Number,80323,10002
+Zip Code 10002,2013,Number,82191,10002
+Zip Code 10002,2014,Number,79894,10002
+Zip Code 10002,2015,Number,80736,10002
+Zip Code 10002,2016,Number,78096,10002
+Zip Code 10002,2017,Number,77925,10002
+Zip Code 10002,2018,Number,74993,10002
+Zip Code 10003,2011,Number,55190,10003
+Zip Code 10003,2012,Number,56614,10003
+Zip Code 10003,2013,Number,57310,10003
+Zip Code 10003,2014,Number,57068,10003
+Zip Code 10003,2015,Number,57112,10003
+Zip Code 10003,2016,Number,56767,10003
+Zip Code 10003,2017,Number,55035,10003
+Zip Code 10003,2018,Number,54682,10003
+Zip Code 10004,2011,Number,2604,10004
+Zip Code 10004,2012,Number,2780,10004
+Zip Code 10004,2013,Number,2807,10004
+Zip Code 10004,2014,Number,3024,10004
+Zip Code 10004,2015,Number,3221,10004
+Zip Code 10004,2016,Number,3044,10004
+Zip Code 10004,2017,Number,2990,10004
+Zip Code 10004,2018,Number,3028,10004
+Zip Code 10005,2011,Number,4935,10005
+Zip Code 10005,2012,Number,5724,10005
+Zip Code 10005,2013,Number,6822,10005
+Zip Code 10005,2014,Number,7570,10005
+Zip Code 10005,2015,Number,8131,10005
+Zip Code 10005,2016,Number,8710,10005
+Zip Code 10005,2017,Number,8680,10005
+Zip Code 10005,2018,Number,8831,10005
+Zip Code 10006,2011,Number,2722,10006
+Zip Code 10006,2012,Number,2696,10006
+Zip Code 10006,2013,Number,2507,10006
+Zip Code 10006,2014,Number,2950,10006
+Zip Code 10006,2015,Number,3110,10006
+Zip Code 10006,2016,Number,3277,10006
+Zip Code 10006,2017,Number,3579,10006
+Zip Code 10006,2018,Number,3454,10006
+Zip Code 10007,2011,Number,5892,10007
+Zip Code 10007,2012,Number,6188,10007
+Zip Code 10007,2013,Number,6525,10007
+Zip Code 10007,2014,Number,6748,10007
+Zip Code 10007,2015,Number,6876,10007
+Zip Code 10007,2016,Number,6740,10007
+Zip Code 10007,2017,Number,7036,10007
+Zip Code 10007,2018,Number,7023,10007
+Zip Code 10009,2011,Number,62335,10009
+Zip Code 10009,2012,Number,62397,10009
+Zip Code 10009,2013,Number,62810,10009
+Zip Code 10009,2014,Number,61806,10009
+Zip Code 10009,2015,Number,60865,10009
+Zip Code 10009,2016,Number,59799,10009
+Zip Code 10009,2017,Number,60141,10009
+Zip Code 10009,2018,Number,57925,10009
+Zip Code 10010,2011,Number,28954,10010
+Zip Code 10010,2012,Number,29396,10010
+Zip Code 10010,2013,Number,30670,10010
+Zip Code 10010,2014,Number,30708,10010
+Zip Code 10010,2015,Number,31447,10010
+Zip Code 10010,2016,Number,32854,10010
+Zip Code 10010,2017,Number,33119,10010
+Zip Code 10010,2018,Number,33730,10010
+Zip Code 10011,2011,Number,51064,10011
+Zip Code 10011,2012,Number,51853,10011
+Zip Code 10011,2013,Number,52167,10011
+Zip Code 10011,2014,Number,52941,10011
+Zip Code 10011,2015,Number,52349,10011
+Zip Code 10011,2016,Number,50404,10011
+Zip Code 10011,2017,Number,50711,10011
+Zip Code 10011,2018,Number,50472,10011
+Zip Code 10012,2011,Number,24342,10012
+Zip Code 10012,2012,Number,24703,10012
+Zip Code 10012,2013,Number,26145,10012
+Zip Code 10012,2014,Number,24846,10012
+Zip Code 10012,2015,Number,24163,10012
+Zip Code 10012,2016,Number,24536,10012
+Zip Code 10012,2017,Number,24527,10012
+Zip Code 10012,2018,Number,23411,10012
+Zip Code 10013,2011,Number,25942,10013
+Zip Code 10013,2012,Number,26090,10013
+Zip Code 10013,2013,Number,26065,10013
+Zip Code 10013,2014,Number,26937,10013
+Zip Code 10013,2015,Number,27415,10013
+Zip Code 10013,2016,Number,28211,10013
+Zip Code 10013,2017,Number,29619,10013
+Zip Code 10013,2018,Number,28709,10013
+Zip Code 10014,2011,Number,31685,10014
+Zip Code 10014,2012,Number,30893,10014
+Zip Code 10014,2013,Number,30597,10014
+Zip Code 10014,2014,Number,31835,10014
+Zip Code 10014,2015,Number,30727,10014
+Zip Code 10014,2016,Number,31464,10014
+Zip Code 10014,2017,Number,31794,10014
+Zip Code 10014,2018,Number,30738,10014
+Zip Code 10016,2011,Number,53754,10016
+Zip Code 10016,2012,Number,52624,10016
+Zip Code 10016,2013,Number,51196,10016
+Zip Code 10016,2014,Number,50112,10016
+Zip Code 10016,2015,Number,50641,10016
+Zip Code 10016,2016,Number,50444,10016
+Zip Code 10016,2017,Number,51448,10016
+Zip Code 10016,2018,Number,51057,10016
+Zip Code 10017,2011,Number,15603,10017
+Zip Code 10017,2012,Number,16137,10017
+Zip Code 10017,2013,Number,16129,10017
+Zip Code 10017,2014,Number,16278,10017
+Zip Code 10017,2015,Number,16472,10017
+Zip Code 10017,2016,Number,16533,10017
+Zip Code 10017,2017,Number,16388,10017
+Zip Code 10017,2018,Number,15801,10017
+Zip Code 10018,2011,Number,5290,10018
+Zip Code 10018,2012,Number,6147,10018
+Zip Code 10018,2013,Number,7021,10018
+Zip Code 10018,2014,Number,8062,10018
+Zip Code 10018,2015,Number,9168,10018
+Zip Code 10018,2016,Number,9684,10018
+Zip Code 10018,2017,Number,9719,10018
+Zip Code 10018,2018,Number,9687,10018
+Zip Code 10019,2011,Number,40778,10019
+Zip Code 10019,2012,Number,40351,10019
+Zip Code 10019,2013,Number,38394,10019
+Zip Code 10019,2014,Number,38752,10019
+Zip Code 10019,2015,Number,38830,10019
+Zip Code 10019,2016,Number,39505,10019
+Zip Code 10019,2017,Number,41592,10019
+Zip Code 10019,2018,Number,43703,10019
+Zip Code 10021,2011,Number,41546,10021
+Zip Code 10021,2012,Number,42646,10021
+Zip Code 10021,2013,Number,40862,10021
+Zip Code 10021,2014,Number,42142,10021
+Zip Code 10021,2015,Number,43573,10021
+Zip Code 10021,2016,Number,45261,10021
+Zip Code 10021,2017,Number,44983,10021
+Zip Code 10021,2018,Number,46215,10021
+Zip Code 10022,2011,Number,28847,10022
+Zip Code 10022,2012,Number,29317,10022
+Zip Code 10022,2013,Number,29618,10022
+Zip Code 10022,2014,Number,29699,10022
+Zip Code 10022,2015,Number,30607,10022
+Zip Code 10022,2016,Number,30262,10022
+Zip Code 10022,2017,Number,30807,10022
+Zip Code 10022,2018,Number,31125,10022
+Zip Code 10023,2011,Number,60035,10023
+Zip Code 10023,2012,Number,60447,10023
+Zip Code 10023,2013,Number,61315,10023
+Zip Code 10023,2014,Number,60762,10023
+Zip Code 10023,2015,Number,60586,10023
+Zip Code 10023,2016,Number,60307,10023
+Zip Code 10023,2017,Number,61514,10023
+Zip Code 10023,2018,Number,62435,10023
+Zip Code 10024,2011,Number,60239,10024
+Zip Code 10024,2012,Number,58991,10024
+Zip Code 10024,2013,Number,59164,10024
+Zip Code 10024,2014,Number,59249,10024
+Zip Code 10024,2015,Number,58391,10024
+Zip Code 10024,2016,Number,58516,10024
+Zip Code 10024,2017,Number,58512,10024
+Zip Code 10024,2018,Number,59001,10024
+Zip Code 10025,2011,Number,95330,10025
+Zip Code 10025,2012,Number,96449,10025
+Zip Code 10025,2013,Number,97390,10025
+Zip Code 10025,2014,Number,97373,10025
+Zip Code 10025,2015,Number,96068,10025
+Zip Code 10025,2016,Number,94717,10025
+Zip Code 10025,2017,Number,94382,10025
+Zip Code 10025,2018,Number,92805,10025
+Zip Code 10026,2011,Number,36026,10026
+Zip Code 10026,2012,Number,36797,10026
+Zip Code 10026,2013,Number,37871,10026
+Zip Code 10026,2014,Number,38372,10026
+Zip Code 10026,2015,Number,38310,10026
+Zip Code 10026,2016,Number,38540,10026
+Zip Code 10026,2017,Number,40105,10026
+Zip Code 10026,2018,Number,39363,10026
+Zip Code 10027,2011,Number,58834,10027
+Zip Code 10027,2012,Number,61018,10027
+Zip Code 10027,2013,Number,62617,10027
+Zip Code 10027,2014,Number,63057,10027
+Zip Code 10027,2015,Number,64413,10027
+Zip Code 10027,2016,Number,64120,10027
+Zip Code 10027,2017,Number,65365,10027
+Zip Code 10027,2018,Number,64548,10027
+Zip Code 10028,2011,Number,45345,10028
+Zip Code 10028,2012,Number,45799,10028
+Zip Code 10028,2013,Number,44295,10028
+Zip Code 10028,2014,Number,46169,10028
+Zip Code 10028,2015,Number,46883,10028
+Zip Code 10028,2016,Number,48205,10028
+Zip Code 10028,2017,Number,50091,10028
+Zip Code 10028,2018,Number,47793,10028
+Zip Code 10029,2011,Number,78451,10029
+Zip Code 10029,2012,Number,79031,10029
+Zip Code 10029,2013,Number,77454,10029
+Zip Code 10029,2014,Number,77857,10029
+Zip Code 10029,2015,Number,79251,10029
+Zip Code 10029,2016,Number,79411,10029
+Zip Code 10029,2017,Number,80866,10029
+Zip Code 10029,2018,Number,79597,10029
+Zip Code 10030,2011,Number,29186,10030
+Zip Code 10030,2012,Number,29364,10030
+Zip Code 10030,2013,Number,28472,10030
+Zip Code 10030,2014,Number,29530,10030
+Zip Code 10030,2015,Number,29209,10030
+Zip Code 10030,2016,Number,30358,10030
+Zip Code 10030,2017,Number,30163,10030
+Zip Code 10030,2018,Number,29882,10030
+Zip Code 10031,2011,Number,58736,10031
+Zip Code 10031,2012,Number,59708,10031
+Zip Code 10031,2013,Number,59092,10031
+Zip Code 10031,2014,Number,58912,10031
+Zip Code 10031,2015,Number,59244,10031
+Zip Code 10031,2016,Number,60778,10031
+Zip Code 10031,2017,Number,62382,10031
+Zip Code 10031,2018,Number,60254,10031
+Zip Code 10032,2011,Number,62798,10032
+Zip Code 10032,2012,Number,61650,10032
+Zip Code 10032,2013,Number,59374,10032
+Zip Code 10032,2014,Number,59069,10032
+Zip Code 10032,2015,Number,62685,10032
+Zip Code 10032,2016,Number,63189,10032
+Zip Code 10032,2017,Number,63185,10032
+Zip Code 10032,2018,Number,64264,10032
+Zip Code 10033,2011,Number,58027,10033
+Zip Code 10033,2012,Number,57073,10033
+Zip Code 10033,2013,Number,58710,10033
+Zip Code 10033,2014,Number,60520,10033
+Zip Code 10033,2015,Number,59844,10033
+Zip Code 10033,2016,Number,59353,10033
+Zip Code 10033,2017,Number,60810,10033
+Zip Code 10033,2018,Number,59607,10033
+Zip Code 10034,2011,Number,40925,10034
+Zip Code 10034,2012,Number,41200,10034
+Zip Code 10034,2013,Number,41510,10034
+Zip Code 10034,2014,Number,42672,10034
+Zip Code 10034,2015,Number,43405,10034
+Zip Code 10034,2016,Number,43951,10034
+Zip Code 10034,2017,Number,44186,10034
+Zip Code 10034,2018,Number,42910,10034
+Zip Code 10035,2011,Number,35290,10035
+Zip Code 10035,2012,Number,34709,10035
+Zip Code 10035,2013,Number,33488,10035
+Zip Code 10035,2014,Number,34760,10035
+Zip Code 10035,2015,Number,33920,10035
+Zip Code 10035,2016,Number,34187,10035
+Zip Code 10035,2017,Number,35366,10035
+Zip Code 10035,2018,Number,35743,10035
+Zip Code 10036,2011,Number,22371,10036
+Zip Code 10036,2012,Number,22413,10036
+Zip Code 10036,2013,Number,23132,10036
+Zip Code 10036,2014,Number,24127,10036
+Zip Code 10036,2015,Number,25799,10036
+Zip Code 10036,2016,Number,25987,10036
+Zip Code 10036,2017,Number,26868,10036
+Zip Code 10036,2018,Number,27428,10036
+Zip Code 10037,2011,Number,17489,10037
+Zip Code 10037,2012,Number,17099,10037
+Zip Code 10037,2013,Number,17377,10037
+Zip Code 10037,2014,Number,18041,10037
+Zip Code 10037,2015,Number,18777,10037
+Zip Code 10037,2016,Number,20112,10037
+Zip Code 10037,2017,Number,21184,10037
+Zip Code 10037,2018,Number,21139,10037
+Zip Code 10038,2011,Number,19530,10038
+Zip Code 10038,2012,Number,20042,10038
+Zip Code 10038,2013,Number,20082,10038
+Zip Code 10038,2014,Number,20997,10038
+Zip Code 10038,2015,Number,21464,10038
+Zip Code 10038,2016,Number,22300,10038
+Zip Code 10038,2017,Number,22457,10038
+Zip Code 10038,2018,Number,22800,10038
+Zip Code 10039,2011,Number,25257,10039
+Zip Code 10039,2012,Number,25372,10039
+Zip Code 10039,2013,Number,26577,10039
+Zip Code 10039,2014,Number,25952,10039
+Zip Code 10039,2015,Number,26697,10039
+Zip Code 10039,2016,Number,27471,10039
+Zip Code 10039,2017,Number,27203,10039
+Zip Code 10039,2018,Number,27726,10039
+Zip Code 10040,2011,Number,43753,10040
+Zip Code 10040,2012,Number,43650,10040
+Zip Code 10040,2013,Number,44825,10040
+Zip Code 10040,2014,Number,45278,10040
+Zip Code 10040,2015,Number,44378,10040
+Zip Code 10040,2016,Number,45033,10040
+Zip Code 10040,2017,Number,46003,10040
+Zip Code 10040,2018,Number,44571,10040
+Zip Code 10044,2011,Number,11399,10044
+Zip Code 10044,2012,Number,12311,10044
+Zip Code 10044,2013,Number,12346,10044
+Zip Code 10044,2014,Number,12050,10044
+Zip Code 10044,2015,Number,11783,10044
+Zip Code 10044,2016,Number,11731,10044
+Zip Code 10044,2017,Number,11945,10044
+Zip Code 10044,2018,Number,11682,10044
+Zip Code 10065,2011,Number,32193,10065
+Zip Code 10065,2012,Number,32807,10065
+Zip Code 10065,2013,Number,32797,10065
+Zip Code 10065,2014,Number,31761,10065
+Zip Code 10065,2015,Number,30237,10065
+Zip Code 10065,2016,Number,30001,10065
+Zip Code 10065,2017,Number,29565,10065
+Zip Code 10065,2018,Number,28109,10065
+Zip Code 10069,2011,Number,5214,10069
+Zip Code 10069,2012,Number,5359,10069
+Zip Code 10069,2013,Number,5118,10069
+Zip Code 10069,2014,Number,5523,10069
+Zip Code 10069,2015,Number,5526,10069
+Zip Code 10069,2016,Number,5231,10069
+Zip Code 10069,2017,Number,5195,10069
+Zip Code 10069,2018,Number,5085,10069
+Zip Code 10075,2011,Number,26082,10075
+Zip Code 10075,2012,Number,24148,10075
+Zip Code 10075,2013,Number,24849,10075
+Zip Code 10075,2014,Number,24377,10075
+Zip Code 10075,2015,Number,25756,10075
+Zip Code 10075,2016,Number,23353,10075
+Zip Code 10075,2017,Number,22818,10075
+Zip Code 10075,2018,Number,21556,10075
+Zip Code 10128,2011,Number,58793,10128
+Zip Code 10128,2012,Number,59443,10128
+Zip Code 10128,2013,Number,60121,10128
+Zip Code 10128,2014,Number,62447,10128
+Zip Code 10128,2015,Number,61927,10128
+Zip Code 10128,2016,Number,63006,10128
+Zip Code 10128,2017,Number,62743,10128
+Zip Code 10128,2018,Number,59256,10128
+Zip Code 10280,2011,Number,7741,10280
+Zip Code 10280,2012,Number,7610,10280
+Zip Code 10280,2013,Number,8685,10280
+Zip Code 10280,2014,Number,8817,10280
+Zip Code 10280,2015,Number,9552,10280
+Zip Code 10280,2016,Number,9845,10280
+Zip Code 10280,2017,Number,9820,10280
+Zip Code 10280,2018,Number,9384,10280
+Zip Code 10282,2011,Number,5027,10282
+Zip Code 10282,2012,Number,5507,10282
+Zip Code 10282,2013,Number,6217,10282
+Zip Code 10282,2014,Number,5903,10282
+Zip Code 10282,2015,Number,5730,10282
+Zip Code 10282,2016,Number,5635,10282
+Zip Code 10282,2017,Number,5644,10282
+Zip Code 10282,2018,Number,5593,10282
+Zip Code 10301,2011,Number,39367,10301
+Zip Code 10301,2012,Number,38851,10301
+Zip Code 10301,2013,Number,38885,10301
+Zip Code 10301,2014,Number,39367,10301
+Zip Code 10301,2015,Number,39209,10301
+Zip Code 10301,2016,Number,39519,10301
+Zip Code 10301,2017,Number,39451,10301
+Zip Code 10301,2018,Number,38733,10301
+Zip Code 10302,2011,Number,17128,10302
+Zip Code 10302,2012,Number,17090,10302
+Zip Code 10302,2013,Number,16811,10302
+Zip Code 10302,2014,Number,18043,10302
+Zip Code 10302,2015,Number,18286,10302
+Zip Code 10302,2016,Number,17758,10302
+Zip Code 10302,2017,Number,18539,10302
+Zip Code 10302,2018,Number,18204,10302
+Zip Code 10303,2011,Number,26274,10303
+Zip Code 10303,2012,Number,24933,10303
+Zip Code 10303,2013,Number,24537,10303
+Zip Code 10303,2014,Number,24348,10303
+Zip Code 10303,2015,Number,23933,10303
+Zip Code 10303,2016,Number,24562,10303
+Zip Code 10303,2017,Number,25804,10303
+Zip Code 10303,2018,Number,25947,10303
+Zip Code 10304,2011,Number,40934,10304
+Zip Code 10304,2012,Number,41845,10304
+Zip Code 10304,2013,Number,43084,10304
+Zip Code 10304,2014,Number,41864,10304
+Zip Code 10304,2015,Number,42244,10304
+Zip Code 10304,2016,Number,42054,10304
+Zip Code 10304,2017,Number,41884,10304
+Zip Code 10304,2018,Number,41064,10304
+Zip Code 10305,2011,Number,40085,10305
+Zip Code 10305,2012,Number,41309,10305
+Zip Code 10305,2013,Number,42006,10305
+Zip Code 10305,2014,Number,41471,10305
+Zip Code 10305,2015,Number,41795,10305
+Zip Code 10305,2016,Number,41533,10305
+Zip Code 10305,2017,Number,42311,10305
+Zip Code 10305,2018,Number,42298,10305
+Zip Code 10306,2011,Number,55710,10306
+Zip Code 10306,2012,Number,55692,10306
+Zip Code 10306,2013,Number,55902,10306
+Zip Code 10306,2014,Number,54888,10306
+Zip Code 10306,2015,Number,54939,10306
+Zip Code 10306,2016,Number,55031,10306
+Zip Code 10306,2017,Number,54021,10306
+Zip Code 10306,2018,Number,53142,10306
+Zip Code 10307,2011,Number,14363,10307
+Zip Code 10307,2012,Number,14418,10307
+Zip Code 10307,2013,Number,14829,10307
+Zip Code 10307,2014,Number,15006,10307
+Zip Code 10307,2015,Number,15098,10307
+Zip Code 10307,2016,Number,15275,10307
+Zip Code 10307,2017,Number,15528,10307
+Zip Code 10307,2018,Number,15232,10307
+Zip Code 10308,2011,Number,29014,10308
+Zip Code 10308,2012,Number,28782,10308
+Zip Code 10308,2013,Number,28939,10308
+Zip Code 10308,2014,Number,29805,10308
+Zip Code 10308,2015,Number,29766,10308
+Zip Code 10308,2016,Number,30347,10308
+Zip Code 10308,2017,Number,30024,10308
+Zip Code 10308,2018,Number,30186,10308
+Zip Code 10309,2011,Number,30706,10309
+Zip Code 10309,2012,Number,31943,10309
+Zip Code 10309,2013,Number,32646,10309
+Zip Code 10309,2014,Number,33382,10309
+Zip Code 10309,2015,Number,33185,10309
+Zip Code 10309,2016,Number,33459,10309
+Zip Code 10309,2017,Number,33660,10309
+Zip Code 10309,2018,Number,33531,10309
+Zip Code 10310,2011,Number,24473,10310
+Zip Code 10310,2012,Number,24454,10310
+Zip Code 10310,2013,Number,25227,10310
+Zip Code 10310,2014,Number,24719,10310
+Zip Code 10310,2015,Number,24394,10310
+Zip Code 10310,2016,Number,24250,10310
+Zip Code 10310,2017,Number,23708,10310
+Zip Code 10310,2018,Number,23262,10310
+Zip Code 10312,2011,Number,60318,10312
+Zip Code 10312,2012,Number,61136,10312
+Zip Code 10312,2013,Number,60081,10312
+Zip Code 10312,2014,Number,61105,10312
+Zip Code 10312,2015,Number,62032,10312
+Zip Code 10312,2016,Number,60951,10312
+Zip Code 10312,2017,Number,61058,10312
+Zip Code 10312,2018,Number,61741,10312
+Zip Code 10314,2011,Number,87662,10314
+Zip Code 10314,2012,Number,87921,10314
+Zip Code 10314,2013,Number,87276,10314
+Zip Code 10314,2014,Number,87524,10314
+Zip Code 10314,2015,Number,87600,10314
+Zip Code 10314,2016,Number,88585,10314
+Zip Code 10314,2017,Number,89960,10314
+Zip Code 10314,2018,Number,90761,10314
+Zip Code 10451,2011,Number,43550,10451
+Zip Code 10451,2012,Number,45931,10451
+Zip Code 10451,2013,Number,47069,10451
+Zip Code 10451,2014,Number,47818,10451
+Zip Code 10451,2015,Number,48188,10451
+Zip Code 10451,2016,Number,48289,10451
+Zip Code 10451,2017,Number,48240,10451
+Zip Code 10451,2018,Number,47798,10451
+Zip Code 10452,2011,Number,75150,10452
+Zip Code 10452,2012,Number,74520,10452
+Zip Code 10452,2013,Number,74931,10452
+Zip Code 10452,2014,Number,75252,10452
+Zip Code 10452,2015,Number,75559,10452
+Zip Code 10452,2016,Number,75288,10452
+Zip Code 10452,2017,Number,77983,10452
+Zip Code 10452,2018,Number,76078,10452
+Zip Code 10453,2011,Number,79376,10453
+Zip Code 10453,2012,Number,79143,10453
+Zip Code 10453,2013,Number,79793,10453
+Zip Code 10453,2014,Number,79002,10453
+Zip Code 10453,2015,Number,80081,10453
+Zip Code 10453,2016,Number,80516,10453
+Zip Code 10453,2017,Number,82232,10453
+Zip Code 10453,2018,Number,79606,10453
+Zip Code 10454,2011,Number,38523,10454
+Zip Code 10454,2012,Number,37850,10454
+Zip Code 10454,2013,Number,38089,10454
+Zip Code 10454,2014,Number,38751,10454
+Zip Code 10454,2015,Number,39012,10454
+Zip Code 10454,2016,Number,38938,10454
+Zip Code 10454,2017,Number,38654,10454
+Zip Code 10454,2018,Number,38203,10454
+Zip Code 10455,2011,Number,37699,10455
+Zip Code 10455,2012,Number,38114,10455
+Zip Code 10455,2013,Number,38576,10455
+Zip Code 10455,2014,Number,39951,10455
+Zip Code 10455,2015,Number,41609,10455
+Zip Code 10455,2016,Number,42779,10455
+Zip Code 10455,2017,Number,42558,10455
+Zip Code 10455,2018,Number,42283,10455
+Zip Code 10456,2011,Number,86121,10456
+Zip Code 10456,2012,Number,87796,10456
+Zip Code 10456,2013,Number,87723,10456
+Zip Code 10456,2014,Number,91737,10456
+Zip Code 10456,2015,Number,91868,10456
+Zip Code 10456,2016,Number,92712,10456
+Zip Code 10456,2017,Number,94667,10456
+Zip Code 10456,2018,Number,94218,10456
+Zip Code 10457,2011,Number,69144,10457
+Zip Code 10457,2012,Number,69411,10457
+Zip Code 10457,2013,Number,70282,10457
+Zip Code 10457,2014,Number,71015,10457
+Zip Code 10457,2015,Number,73763,10457
+Zip Code 10457,2016,Number,74010,10457
+Zip Code 10457,2017,Number,75668,10457
+Zip Code 10457,2018,Number,74554,10457
+Zip Code 10458,2011,Number,73436,10458
+Zip Code 10458,2012,Number,74911,10458
+Zip Code 10458,2013,Number,74859,10458
+Zip Code 10458,2014,Number,76276,10458
+Zip Code 10458,2015,Number,79974,10458
+Zip Code 10458,2016,Number,81698,10458
+Zip Code 10458,2017,Number,85157,10458
+Zip Code 10458,2018,Number,83960,10458
+Zip Code 10459,2011,Number,45261,10459
+Zip Code 10459,2012,Number,47000,10459
+Zip Code 10459,2013,Number,47977,10459
+Zip Code 10459,2014,Number,48269,10459
+Zip Code 10459,2015,Number,47778,10459
+Zip Code 10459,2016,Number,47972,10459
+Zip Code 10459,2017,Number,48895,10459
+Zip Code 10459,2018,Number,48351,10459
+Zip Code 10460,2011,Number,55462,10460
+Zip Code 10460,2012,Number,56011,10460
+Zip Code 10460,2013,Number,56084,10460
+Zip Code 10460,2014,Number,58676,10460
+Zip Code 10460,2015,Number,59512,10460
+Zip Code 10460,2016,Number,60266,10460
+Zip Code 10460,2017,Number,60772,10460
+Zip Code 10460,2018,Number,59505,10460
+Zip Code 10461,2011,Number,51767,10461
+Zip Code 10461,2012,Number,51599,10461
+Zip Code 10461,2013,Number,51730,10461
+Zip Code 10461,2014,Number,52435,10461
+Zip Code 10461,2015,Number,51820,10461
+Zip Code 10461,2016,Number,50255,10461
+Zip Code 10461,2017,Number,51021,10461
+Zip Code 10461,2018,Number,50348,10461
+Zip Code 10462,2011,Number,75407,10462
+Zip Code 10462,2012,Number,75709,10462
+Zip Code 10462,2013,Number,77369,10462
+Zip Code 10462,2014,Number,76114,10462
+Zip Code 10462,2015,Number,78504,10462
+Zip Code 10462,2016,Number,78725,10462
+Zip Code 10462,2017,Number,79188,10462
+Zip Code 10462,2018,Number,76756,10462
+Zip Code 10463,2011,Number,68345,10463
+Zip Code 10463,2012,Number,69371,10463
+Zip Code 10463,2013,Number,70420,10463
+Zip Code 10463,2014,Number,71238,10463
+Zip Code 10463,2015,Number,71981,10463
+Zip Code 10463,2016,Number,71657,10463
+Zip Code 10463,2017,Number,72863,10463
+Zip Code 10463,2018,Number,71360,10463
+Zip Code 10464,2011,Number,4255,10464
+Zip Code 10464,2012,Number,3974,10464
+Zip Code 10464,2013,Number,4248,10464
+Zip Code 10464,2014,Number,4532,10464
+Zip Code 10464,2015,Number,4723,10464
+Zip Code 10464,2016,Number,4300,10464
+Zip Code 10464,2017,Number,4517,10464
+Zip Code 10464,2018,Number,4434,10464
+Zip Code 10465,2011,Number,42688,10465
+Zip Code 10465,2012,Number,43897,10465
+Zip Code 10465,2013,Number,44862,10465
+Zip Code 10465,2014,Number,46360,10465
+Zip Code 10465,2015,Number,45839,10465
+Zip Code 10465,2016,Number,44950,10465
+Zip Code 10465,2017,Number,44269,10465
+Zip Code 10465,2018,Number,44205,10465
+Zip Code 10466,2011,Number,72997,10466
+Zip Code 10466,2012,Number,71631,10466
+Zip Code 10466,2013,Number,70609,10466
+Zip Code 10466,2014,Number,69657,10466
+Zip Code 10466,2015,Number,71138,10466
+Zip Code 10466,2016,Number,71645,10466
+Zip Code 10466,2017,Number,73569,10466
+Zip Code 10466,2018,Number,72479,10466
+Zip Code 10467,2011,Number,93833,10467
+Zip Code 10467,2012,Number,96319,10467
+Zip Code 10467,2013,Number,98754,10467
+Zip Code 10467,2014,Number,99251,10467
+Zip Code 10467,2015,Number,101134,10467
+Zip Code 10467,2016,Number,103045,10467
+Zip Code 10467,2017,Number,102718,10467
+Zip Code 10467,2018,Number,103732,10467
+Zip Code 10468,2011,Number,73738,10468
+Zip Code 10468,2012,Number,73205,10468
+Zip Code 10468,2013,Number,71822,10468
+Zip Code 10468,2014,Number,72683,10468
+Zip Code 10468,2015,Number,73637,10468
+Zip Code 10468,2016,Number,75537,10468
+Zip Code 10468,2017,Number,77657,10468
+Zip Code 10468,2018,Number,78647,10468
+Zip Code 10469,2011,Number,71245,10469
+Zip Code 10469,2012,Number,71580,10469
+Zip Code 10469,2013,Number,71843,10469
+Zip Code 10469,2014,Number,72241,10469
+Zip Code 10469,2015,Number,72732,10469
+Zip Code 10469,2016,Number,71664,10469
+Zip Code 10469,2017,Number,73008,10469
+Zip Code 10469,2018,Number,73870,10469
+Zip Code 10470,2011,Number,14952,10470
+Zip Code 10470,2012,Number,15647,10470
+Zip Code 10470,2013,Number,14850,10470
+Zip Code 10470,2014,Number,14880,10470
+Zip Code 10470,2015,Number,14868,10470
+Zip Code 10470,2016,Number,14574,10470
+Zip Code 10470,2017,Number,14592,10470
+Zip Code 10470,2018,Number,15432,10470
+Zip Code 10471,2011,Number,22222,10471
+Zip Code 10471,2012,Number,21792,10471
+Zip Code 10471,2013,Number,22030,10471
+Zip Code 10471,2014,Number,21935,10471
+Zip Code 10471,2015,Number,21727,10471
+Zip Code 10471,2016,Number,21601,10471
+Zip Code 10471,2017,Number,22040,10471
+Zip Code 10471,2018,Number,21896,10471
+Zip Code 10472,2011,Number,66041,10472
+Zip Code 10472,2012,Number,67915,10472
+Zip Code 10472,2013,Number,68898,10472
+Zip Code 10472,2014,Number,69659,10472
+Zip Code 10472,2015,Number,68654,10472
+Zip Code 10472,2016,Number,68972,10472
+Zip Code 10472,2017,Number,68924,10472
+Zip Code 10472,2018,Number,68796,10472
+Zip Code 10473,2011,Number,57444,10473
+Zip Code 10473,2012,Number,58403,10473
+Zip Code 10473,2013,Number,58660,10473
+Zip Code 10473,2014,Number,59948,10473
+Zip Code 10473,2015,Number,59352,10473
+Zip Code 10473,2016,Number,61818,10473
+Zip Code 10473,2017,Number,62531,10473
+Zip Code 10473,2018,Number,59609,10473
+Zip Code 10474,2011,Number,12466,10474
+Zip Code 10474,2012,Number,12723,10474
+Zip Code 10474,2013,Number,12519,10474
+Zip Code 10474,2014,Number,12223,10474
+Zip Code 10474,2015,Number,12686,10474
+Zip Code 10474,2016,Number,12793,10474
+Zip Code 10474,2017,Number,12608,10474
+Zip Code 10474,2018,Number,12127,10474
+Zip Code 10475,2011,Number,41377,10475
+Zip Code 10475,2012,Number,41625,10475
+Zip Code 10475,2013,Number,43231,10475
+Zip Code 10475,2014,Number,44582,10475
+Zip Code 10475,2015,Number,43913,10475
+Zip Code 10475,2016,Number,44749,10475
+Zip Code 10475,2017,Number,44241,10475
+Zip Code 10475,2018,Number,43208,10475
+Zip Code 11001,2011,Number,26905,11001
+Zip Code 11001,2012,Number,27104,11001
+Zip Code 11001,2013,Number,27001,11001
+Zip Code 11001,2014,Number,27156,11001
+Zip Code 11001,2015,Number,27551,11001
+Zip Code 11001,2016,Number,27650,11001
+Zip Code 11001,2017,Number,28010,11001
+Zip Code 11001,2018,Number,27867,11001
+Zip Code 11004,2011,Number,14050,11004
+Zip Code 11004,2012,Number,14178,11004
+Zip Code 11004,2013,Number,14500,11004
+Zip Code 11004,2014,Number,14045,11004
+Zip Code 11004,2015,Number,13778,11004
+Zip Code 11004,2016,Number,14722,11004
+Zip Code 11004,2017,Number,15151,11004
+Zip Code 11004,2018,Number,15234,11004
+Zip Code 11005,2011,Number,1797,11005
+Zip Code 11005,2012,Number,1963,11005
+Zip Code 11005,2013,Number,2055,11005
+Zip Code 11005,2014,Number,2123,11005
+Zip Code 11005,2015,Number,1947,11005
+Zip Code 11005,2016,Number,1926,11005
+Zip Code 11005,2017,Number,1762,11005
+Zip Code 11005,2018,Number,1749,11005
+Zip Code 11040,2011,Number,40296,11040
+Zip Code 11040,2012,Number,40005,11040
+Zip Code 11040,2013,Number,40231,11040
+Zip Code 11040,2014,Number,40799,11040
+Zip Code 11040,2015,Number,41434,11040
+Zip Code 11040,2016,Number,41381,11040
+Zip Code 11040,2017,Number,42140,11040
+Zip Code 11040,2018,Number,41877,11040
+Zip Code 11096,2011,Number,8443,11096
+Zip Code 11096,2012,Number,8091,11096
+Zip Code 11096,2013,Number,8276,11096
+Zip Code 11096,2014,Number,7884,11096
+Zip Code 11096,2015,Number,8331,11096
+Zip Code 11096,2016,Number,7701,11096
+Zip Code 11096,2017,Number,8609,11096
+Zip Code 11096,2018,Number,8311,11096
+Zip Code 11101,2011,Number,23798,11101
+Zip Code 11101,2012,Number,24405,11101
+Zip Code 11101,2013,Number,25537,11101
+Zip Code 11101,2014,Number,25317,11101
+Zip Code 11101,2015,Number,25880,11101
+Zip Code 11101,2016,Number,26505,11101
+Zip Code 11101,2017,Number,28852,11101
+Zip Code 11101,2018,Number,30043,11101
+Zip Code 11102,2011,Number,33432,11102
+Zip Code 11102,2012,Number,33742,11102
+Zip Code 11102,2013,Number,34529,11102
+Zip Code 11102,2014,Number,35027,11102
+Zip Code 11102,2015,Number,35271,11102
+Zip Code 11102,2016,Number,33750,11102
+Zip Code 11102,2017,Number,33727,11102
+Zip Code 11102,2018,Number,30800,11102
+Zip Code 11103,2011,Number,36508,11103
+Zip Code 11103,2012,Number,36724,11103
+Zip Code 11103,2013,Number,37745,11103
+Zip Code 11103,2014,Number,38257,11103
+Zip Code 11103,2015,Number,39231,11103
+Zip Code 11103,2016,Number,38861,11103
+Zip Code 11103,2017,Number,38036,11103
+Zip Code 11103,2018,Number,36140,11103
+Zip Code 11104,2011,Number,26230,11104
+Zip Code 11104,2012,Number,26321,11104
+Zip Code 11104,2013,Number,25729,11104
+Zip Code 11104,2014,Number,26555,11104
+Zip Code 11104,2015,Number,26718,11104
+Zip Code 11104,2016,Number,26102,11104
+Zip Code 11104,2017,Number,25725,11104
+Zip Code 11104,2018,Number,26119,11104
+Zip Code 11105,2011,Number,38103,11105
+Zip Code 11105,2012,Number,37438,11105
+Zip Code 11105,2013,Number,36190,11105
+Zip Code 11105,2014,Number,36816,11105
+Zip Code 11105,2015,Number,37194,11105
+Zip Code 11105,2016,Number,37297,11105
+Zip Code 11105,2017,Number,37288,11105
+Zip Code 11105,2018,Number,37382,11105
+Zip Code 11106,2011,Number,36305,11106
+Zip Code 11106,2012,Number,36958,11106
+Zip Code 11106,2013,Number,36869,11106
+Zip Code 11106,2014,Number,38633,11106
+Zip Code 11106,2015,Number,38812,11106
+Zip Code 11106,2016,Number,39409,11106
+Zip Code 11106,2017,Number,40111,11106
+Zip Code 11106,2018,Number,38363,11106
+Zip Code 11109,2011,Number,2916,11109
+Zip Code 11109,2012,Number,3272,11109
+Zip Code 11109,2013,Number,3524,11109
+Zip Code 11109,2014,Number,4337,11109
+Zip Code 11109,2015,Number,4702,11109
+Zip Code 11109,2016,Number,4964,11109
+Zip Code 11109,2017,Number,5298,11109
+Zip Code 11109,2018,Number,5981,11109
+Zip Code 11201,2011,Number,51356,11201
+Zip Code 11201,2012,Number,52242,11201
+Zip Code 11201,2013,Number,54668,11201
+Zip Code 11201,2014,Number,56488,11201
+Zip Code 11201,2015,Number,58350,11201
+Zip Code 11201,2016,Number,60061,11201
+Zip Code 11201,2017,Number,61907,11201
+Zip Code 11201,2018,Number,62823,11201
+Zip Code 11203,2011,Number,80337,11203
+Zip Code 11203,2012,Number,80202,11203
+Zip Code 11203,2013,Number,79572,11203
+Zip Code 11203,2014,Number,77011,11203
+Zip Code 11203,2015,Number,75887,11203
+Zip Code 11203,2016,Number,75920,11203
+Zip Code 11203,2017,Number,75989,11203
+Zip Code 11203,2018,Number,75451,11203
+Zip Code 11204,2011,Number,78690,11204
+Zip Code 11204,2012,Number,80341,11204
+Zip Code 11204,2013,Number,80963,11204
+Zip Code 11204,2014,Number,80349,11204
+Zip Code 11204,2015,Number,80486,11204
+Zip Code 11204,2016,Number,79332,11204
+Zip Code 11204,2017,Number,80056,11204
+Zip Code 11204,2018,Number,76978,11204
+Zip Code 11205,2011,Number,38997,11205
+Zip Code 11205,2012,Number,40125,11205
+Zip Code 11205,2013,Number,43002,11205
+Zip Code 11205,2014,Number,43320,11205
+Zip Code 11205,2015,Number,43224,11205
+Zip Code 11205,2016,Number,44818,11205
+Zip Code 11205,2017,Number,45148,11205
+Zip Code 11205,2018,Number,46064,11205
+Zip Code 11206,2011,Number,79674,11206
+Zip Code 11206,2012,Number,80086,11206
+Zip Code 11206,2013,Number,81525,11206
+Zip Code 11206,2014,Number,83180,11206
+Zip Code 11206,2015,Number,84806,11206
+Zip Code 11206,2016,Number,86486,11206
+Zip Code 11206,2017,Number,87767,11206
+Zip Code 11206,2018,Number,88349,11206
+Zip Code 11207,2011,Number,89676,11207
+Zip Code 11207,2012,Number,92054,11207
+Zip Code 11207,2013,Number,92491,11207
+Zip Code 11207,2014,Number,93465,11207
+Zip Code 11207,2015,Number,94657,11207
+Zip Code 11207,2016,Number,93251,11207
+Zip Code 11207,2017,Number,92580,11207
+Zip Code 11207,2018,Number,91972,11207
+Zip Code 11208,2011,Number,93447,11208
+Zip Code 11208,2012,Number,93998,11208
+Zip Code 11208,2013,Number,93107,11208
+Zip Code 11208,2014,Number,92262,11208
+Zip Code 11208,2015,Number,93847,11208
+Zip Code 11208,2016,Number,95715,11208
+Zip Code 11208,2017,Number,99145,11208
+Zip Code 11208,2018,Number,98660,11208
+Zip Code 11209,2011,Number,71704,11209
+Zip Code 11209,2012,Number,72434,11209
+Zip Code 11209,2013,Number,72623,11209
+Zip Code 11209,2014,Number,72582,11209
+Zip Code 11209,2015,Number,70803,11209
+Zip Code 11209,2016,Number,67822,11209
+Zip Code 11209,2017,Number,67950,11209
+Zip Code 11209,2018,Number,67809,11209
+Zip Code 11210,2011,Number,64508,11210
+Zip Code 11210,2012,Number,64041,11210
+Zip Code 11210,2013,Number,65302,11210
+Zip Code 11210,2014,Number,67042,11210
+Zip Code 11210,2015,Number,67432,11210
+Zip Code 11210,2016,Number,68435,11210
+Zip Code 11210,2017,Number,68988,11210
+Zip Code 11210,2018,Number,67040,11210
+Zip Code 11211,2011,Number,90522,11211
+Zip Code 11211,2012,Number,90510,11211
+Zip Code 11211,2013,Number,93271,11211
+Zip Code 11211,2014,Number,94681,11211
+Zip Code 11211,2015,Number,97772,11211
+Zip Code 11211,2016,Number,99964,11211
+Zip Code 11211,2017,Number,101560,11211
+Zip Code 11211,2018,Number,102624,11211
+Zip Code 11212,2011,Number,80311,11212
+Zip Code 11212,2012,Number,81267,11212
+Zip Code 11212,2013,Number,84520,11212
+Zip Code 11212,2014,Number,87751,11212
+Zip Code 11212,2015,Number,88668,11212
+Zip Code 11212,2016,Number,86469,11212
+Zip Code 11212,2017,Number,82831,11212
+Zip Code 11212,2018,Number,76527,11212
+Zip Code 11213,2011,Number,62231,11213
+Zip Code 11213,2012,Number,61495,11213
+Zip Code 11213,2013,Number,62059,11213
+Zip Code 11213,2014,Number,62756,11213
+Zip Code 11213,2015,Number,64603,11213
+Zip Code 11213,2016,Number,65434,11213
+Zip Code 11213,2017,Number,66503,11213
+Zip Code 11213,2018,Number,66295,11213
+Zip Code 11214,2011,Number,78326,11214
+Zip Code 11214,2012,Number,81428,11214
+Zip Code 11214,2013,Number,83156,11214
+Zip Code 11214,2014,Number,88297,11214
+Zip Code 11214,2015,Number,91295,11214
+Zip Code 11214,2016,Number,91728,11214
+Zip Code 11214,2017,Number,94283,11214
+Zip Code 11214,2018,Number,92946,11214
+Zip Code 11215,2011,Number,65477,11215
+Zip Code 11215,2012,Number,67195,11215
+Zip Code 11215,2013,Number,68891,11215
+Zip Code 11215,2014,Number,70156,11215
+Zip Code 11215,2015,Number,70818,11215
+Zip Code 11215,2016,Number,69965,11215
+Zip Code 11215,2017,Number,71015,11215
+Zip Code 11215,2018,Number,70156,11215
+Zip Code 11216,2011,Number,53065,11216
+Zip Code 11216,2012,Number,53662,11216
+Zip Code 11216,2013,Number,53783,11216
+Zip Code 11216,2014,Number,54440,11216
+Zip Code 11216,2015,Number,53747,11216
+Zip Code 11216,2016,Number,55816,11216
+Zip Code 11216,2017,Number,57410,11216
+Zip Code 11216,2018,Number,56308,11216
+Zip Code 11217,2011,Number,38992,11217
+Zip Code 11217,2012,Number,38398,11217
+Zip Code 11217,2013,Number,38787,11217
+Zip Code 11217,2014,Number,38567,11217
+Zip Code 11217,2015,Number,38511,11217
+Zip Code 11217,2016,Number,38670,11217
+Zip Code 11217,2017,Number,39687,11217
+Zip Code 11217,2018,Number,41407,11217
+Zip Code 11218,2011,Number,76811,11218
+Zip Code 11218,2012,Number,74571,11218
+Zip Code 11218,2013,Number,74758,11218
+Zip Code 11218,2014,Number,75132,11218
+Zip Code 11218,2015,Number,75691,11218
+Zip Code 11218,2016,Number,74831,11218
+Zip Code 11218,2017,Number,76960,11218
+Zip Code 11218,2018,Number,74508,11218
+Zip Code 11219,2011,Number,94083,11219
+Zip Code 11219,2012,Number,95069,11219
+Zip Code 11219,2013,Number,96971,11219
+Zip Code 11219,2014,Number,98719,11219
+Zip Code 11219,2015,Number,97670,11219
+Zip Code 11219,2016,Number,96287,11219
+Zip Code 11219,2017,Number,93979,11219
+Zip Code 11219,2018,Number,90036,11219
+Zip Code 11220,2011,Number,99540,11220
+Zip Code 11220,2012,Number,100476,11220
+Zip Code 11220,2013,Number,103089,11220
+Zip Code 11220,2014,Number,101715,11220
+Zip Code 11220,2015,Number,102325,11220
+Zip Code 11220,2016,Number,101006,11220
+Zip Code 11220,2017,Number,100412,11220
+Zip Code 11220,2018,Number,95643,11220
+Zip Code 11221,2011,Number,77041,11221
+Zip Code 11221,2012,Number,80254,11221
+Zip Code 11221,2013,Number,81321,11221
+Zip Code 11221,2014,Number,83773,11221
+Zip Code 11221,2015,Number,83372,11221
+Zip Code 11221,2016,Number,84034,11221
+Zip Code 11221,2017,Number,84536,11221
+Zip Code 11221,2018,Number,83835,11221
+Zip Code 11222,2011,Number,33482,11222
+Zip Code 11222,2012,Number,33718,11222
+Zip Code 11222,2013,Number,34186,11222
+Zip Code 11222,2014,Number,34580,11222
+Zip Code 11222,2015,Number,35163,11222
+Zip Code 11222,2016,Number,35695,11222
+Zip Code 11222,2017,Number,36845,11222
+Zip Code 11222,2018,Number,36492,11222
+Zip Code 11223,2011,Number,73208,11223
+Zip Code 11223,2012,Number,74700,11223
+Zip Code 11223,2013,Number,74606,11223
+Zip Code 11223,2014,Number,76651,11223
+Zip Code 11223,2015,Number,79385,11223
+Zip Code 11223,2016,Number,79730,11223
+Zip Code 11223,2017,Number,80855,11223
+Zip Code 11223,2018,Number,81789,11223
+Zip Code 11224,2011,Number,45092,11224
+Zip Code 11224,2012,Number,44047,11224
+Zip Code 11224,2013,Number,42535,11224
+Zip Code 11224,2014,Number,42698,11224
+Zip Code 11224,2015,Number,43001,11224
+Zip Code 11224,2016,Number,43444,11224
+Zip Code 11224,2017,Number,45244,11224
+Zip Code 11224,2018,Number,46707,11224
+Zip Code 11225,2011,Number,58987,11225
+Zip Code 11225,2012,Number,60179,11225
+Zip Code 11225,2013,Number,59182,11225
+Zip Code 11225,2014,Number,59613,11225
+Zip Code 11225,2015,Number,60180,11225
+Zip Code 11225,2016,Number,60323,11225
+Zip Code 11225,2017,Number,59497,11225
+Zip Code 11225,2018,Number,58882,11225
+Zip Code 11226,2011,Number,99422,11226
+Zip Code 11226,2012,Number,99285,11226
+Zip Code 11226,2013,Number,98325,11226
+Zip Code 11226,2014,Number,98299,11226
+Zip Code 11226,2015,Number,99026,11226
+Zip Code 11226,2016,Number,101787,11226
+Zip Code 11226,2017,Number,102585,11226
+Zip Code 11226,2018,Number,100277,11226
+Zip Code 11228,2011,Number,42585,11228
+Zip Code 11228,2012,Number,43396,11228
+Zip Code 11228,2013,Number,43929,11228
+Zip Code 11228,2014,Number,46059,11228
+Zip Code 11228,2015,Number,47190,11228
+Zip Code 11228,2016,Number,46164,11228
+Zip Code 11228,2017,Number,44676,11228
+Zip Code 11228,2018,Number,44994,11228
+Zip Code 11229,2011,Number,77021,11229
+Zip Code 11229,2012,Number,79268,11229
+Zip Code 11229,2013,Number,81030,11229
+Zip Code 11229,2014,Number,81351,11229
+Zip Code 11229,2015,Number,81732,11229
+Zip Code 11229,2016,Number,82914,11229
+Zip Code 11229,2017,Number,85776,11229
+Zip Code 11229,2018,Number,83615,11229
+Zip Code 11230,2011,Number,85757,11230
+Zip Code 11230,2012,Number,84707,11230
+Zip Code 11230,2013,Number,84219,11230
+Zip Code 11230,2014,Number,87064,11230
+Zip Code 11230,2015,Number,88589,11230
+Zip Code 11230,2016,Number,88933,11230
+Zip Code 11230,2017,Number,90257,11230
+Zip Code 11230,2018,Number,89075,11230
+Zip Code 11231,2011,Number,35109,11231
+Zip Code 11231,2012,Number,34393,11231
+Zip Code 11231,2013,Number,34137,11231
+Zip Code 11231,2014,Number,34605,11231
+Zip Code 11231,2015,Number,35263,11231
+Zip Code 11231,2016,Number,36302,11231
+Zip Code 11231,2017,Number,37680,11231
+Zip Code 11231,2018,Number,37845,11231
+Zip Code 11232,2011,Number,27925,11232
+Zip Code 11232,2012,Number,28703,11232
+Zip Code 11232,2013,Number,28824,11232
+Zip Code 11232,2014,Number,29452,11232
+Zip Code 11232,2015,Number,29216,11232
+Zip Code 11232,2016,Number,29387,11232
+Zip Code 11232,2017,Number,28992,11232
+Zip Code 11232,2018,Number,27602,11232
+Zip Code 11233,2011,Number,66315,11233
+Zip Code 11233,2012,Number,67661,11233
+Zip Code 11233,2013,Number,68599,11233
+Zip Code 11233,2014,Number,69637,11233
+Zip Code 11233,2015,Number,71589,11233
+Zip Code 11233,2016,Number,72159,11233
+Zip Code 11233,2017,Number,74982,11233
+Zip Code 11233,2018,Number,76819,11233
+Zip Code 11234,2011,Number,94891,11234
+Zip Code 11234,2012,Number,95390,11234
+Zip Code 11234,2013,Number,94259,11234
+Zip Code 11234,2014,Number,95610,11234
+Zip Code 11234,2015,Number,95912,11234
+Zip Code 11234,2016,Number,95546,11234
+Zip Code 11234,2017,Number,97741,11234
+Zip Code 11234,2018,Number,95666,11234
+Zip Code 11235,2011,Number,71129,11235
+Zip Code 11235,2012,Number,72447,11235
+Zip Code 11235,2013,Number,74630,11235
+Zip Code 11235,2014,Number,75622,11235
+Zip Code 11235,2015,Number,76668,11235
+Zip Code 11235,2016,Number,78237,11235
+Zip Code 11235,2017,Number,80222,11235
+Zip Code 11235,2018,Number,78128,11235
+Zip Code 11236,2011,Number,94643,11236
+Zip Code 11236,2012,Number,97084,11236
+Zip Code 11236,2013,Number,97217,11236
+Zip Code 11236,2014,Number,97714,11236
+Zip Code 11236,2015,Number,98276,11236
+Zip Code 11236,2016,Number,100049,11236
+Zip Code 11236,2017,Number,100633,11236
+Zip Code 11236,2018,Number,100331,11236
+Zip Code 11237,2011,Number,52123,11237
+Zip Code 11237,2012,Number,53031,11237
+Zip Code 11237,2013,Number,55478,11237
+Zip Code 11237,2014,Number,55258,11237
+Zip Code 11237,2015,Number,54182,11237
+Zip Code 11237,2016,Number,53678,11237
+Zip Code 11237,2017,Number,52319,11237
+Zip Code 11237,2018,Number,49310,11237
+Zip Code 11238,2011,Number,50840,11238
+Zip Code 11238,2012,Number,52033,11238
+Zip Code 11238,2013,Number,51895,11238
+Zip Code 11238,2014,Number,51959,11238
+Zip Code 11238,2015,Number,52999,11238
+Zip Code 11238,2016,Number,53992,11238
+Zip Code 11238,2017,Number,55398,11238
+Zip Code 11238,2018,Number,54540,11238
+Zip Code 11239,2011,Number,12802,11239
+Zip Code 11239,2012,Number,12850,11239
+Zip Code 11239,2013,Number,12879,11239
+Zip Code 11239,2014,Number,12943,11239
+Zip Code 11239,2015,Number,12924,11239
+Zip Code 11239,2016,Number,12468,11239
+Zip Code 11239,2017,Number,12713,11239
+Zip Code 11239,2018,Number,13244,11239
+Zip Code 11354,2011,Number,53050,11354
+Zip Code 11354,2012,Number,55543,11354
+Zip Code 11354,2013,Number,56258,11354
+Zip Code 11354,2014,Number,56433,11354
+Zip Code 11354,2015,Number,56908,11354
+Zip Code 11354,2016,Number,58551,11354
+Zip Code 11354,2017,Number,57566,11354
+Zip Code 11354,2018,Number,55200,11354
+Zip Code 11355,2011,Number,82505,11355
+Zip Code 11355,2012,Number,83938,11355
+Zip Code 11355,2013,Number,83221,11355
+Zip Code 11355,2014,Number,83799,11355
+Zip Code 11355,2015,Number,82790,11355
+Zip Code 11355,2016,Number,82028,11355
+Zip Code 11355,2017,Number,82890,11355
+Zip Code 11355,2018,Number,80853,11355
+Zip Code 11356,2011,Number,21721,11356
+Zip Code 11356,2012,Number,22947,11356
+Zip Code 11356,2013,Number,23037,11356
+Zip Code 11356,2014,Number,23800,11356
+Zip Code 11356,2015,Number,24631,11356
+Zip Code 11356,2016,Number,24405,11356
+Zip Code 11356,2017,Number,24069,11356
+Zip Code 11356,2018,Number,23362,11356
+Zip Code 11357,2011,Number,40516,11357
+Zip Code 11357,2012,Number,40705,11357
+Zip Code 11357,2013,Number,40872,11357
+Zip Code 11357,2014,Number,40588,11357
+Zip Code 11357,2015,Number,39737,11357
+Zip Code 11357,2016,Number,39259,11357
+Zip Code 11357,2017,Number,41393,11357
+Zip Code 11357,2018,Number,39902,11357
+Zip Code 11358,2011,Number,38668,11358
+Zip Code 11358,2012,Number,39143,11358
+Zip Code 11358,2013,Number,38317,11358
+Zip Code 11358,2014,Number,37634,11358
+Zip Code 11358,2015,Number,37486,11358
+Zip Code 11358,2016,Number,37461,11358
+Zip Code 11358,2017,Number,36959,11358
+Zip Code 11358,2018,Number,37190,11358
+Zip Code 11359,2011,Number,0,11359
+Zip Code 11359,2012,Number,0,11359
+Zip Code 11359,2013,Number,0,11359
+Zip Code 11359,2014,Number,0,11359
+Zip Code 11359,2015,Number,0,11359
+Zip Code 11359,2016,Number,0,11359
+Zip Code 11359,2017,Number,0,11359
+Zip Code 11359,2018,Number,0,11359
+Zip Code 11360,2011,Number,20953,11360
+Zip Code 11360,2012,Number,20688,11360
+Zip Code 11360,2013,Number,19865,11360
+Zip Code 11360,2014,Number,19916,11360
+Zip Code 11360,2015,Number,19605,11360
+Zip Code 11360,2016,Number,19309,11360
+Zip Code 11360,2017,Number,19501,11360
+Zip Code 11360,2018,Number,19621,11360
+Zip Code 11361,2011,Number,28926,11361
+Zip Code 11361,2012,Number,29197,11361
+Zip Code 11361,2013,Number,30597,11361
+Zip Code 11361,2014,Number,30352,11361
+Zip Code 11361,2015,Number,30207,11361
+Zip Code 11361,2016,Number,29322,11361
+Zip Code 11361,2017,Number,29072,11361
+Zip Code 11361,2018,Number,27246,11361
+Zip Code 11362,2011,Number,17492,11362
+Zip Code 11362,2012,Number,18220,11362
+Zip Code 11362,2013,Number,17865,11362
+Zip Code 11362,2014,Number,17897,11362
+Zip Code 11362,2015,Number,18139,11362
+Zip Code 11362,2016,Number,18198,11362
+Zip Code 11362,2017,Number,18443,11362
+Zip Code 11362,2018,Number,18721,11362
+Zip Code 11363,2011,Number,7052,11363
+Zip Code 11363,2012,Number,7442,11363
+Zip Code 11363,2013,Number,7354,11363
+Zip Code 11363,2014,Number,7625,11363
+Zip Code 11363,2015,Number,7662,11363
+Zip Code 11363,2016,Number,7577,11363
+Zip Code 11363,2017,Number,7423,11363
+Zip Code 11363,2018,Number,6952,11363
+Zip Code 11364,2011,Number,35372,11364
+Zip Code 11364,2012,Number,35106,11364
+Zip Code 11364,2013,Number,34751,11364
+Zip Code 11364,2014,Number,34902,11364
+Zip Code 11364,2015,Number,34949,11364
+Zip Code 11364,2016,Number,35068,11364
+Zip Code 11364,2017,Number,35885,11364
+Zip Code 11364,2018,Number,36806,11364
+Zip Code 11365,2011,Number,41283,11365
+Zip Code 11365,2012,Number,41520,11365
+Zip Code 11365,2013,Number,41924,11365
+Zip Code 11365,2014,Number,43138,11365
+Zip Code 11365,2015,Number,45041,11365
+Zip Code 11365,2016,Number,44617,11365
+Zip Code 11365,2017,Number,45565,11365
+Zip Code 11365,2018,Number,44983,11365
+Zip Code 11366,2011,Number,14160,11366
+Zip Code 11366,2012,Number,13593,11366
+Zip Code 11366,2013,Number,13499,11366
+Zip Code 11366,2014,Number,13146,11366
+Zip Code 11366,2015,Number,13192,11366
+Zip Code 11366,2016,Number,14042,11366
+Zip Code 11366,2017,Number,14308,11366
+Zip Code 11366,2018,Number,14650,11366
+Zip Code 11367,2011,Number,38835,11367
+Zip Code 11367,2012,Number,39424,11367
+Zip Code 11367,2013,Number,41022,11367
+Zip Code 11367,2014,Number,41582,11367
+Zip Code 11367,2015,Number,42667,11367
+Zip Code 11367,2016,Number,42663,11367
+Zip Code 11367,2017,Number,43496,11367
+Zip Code 11367,2018,Number,41824,11367
+Zip Code 11368,2011,Number,103401,11368
+Zip Code 11368,2012,Number,104486,11368
+Zip Code 11368,2013,Number,107962,11368
+Zip Code 11368,2014,Number,110385,11368
+Zip Code 11368,2015,Number,112709,11368
+Zip Code 11368,2016,Number,112982,11368
+Zip Code 11368,2017,Number,114647,11368
+Zip Code 11368,2018,Number,112425,11368
+Zip Code 11369,2011,Number,39677,11369
+Zip Code 11369,2012,Number,40160,11369
+Zip Code 11369,2013,Number,40761,11369
+Zip Code 11369,2014,Number,39862,11369
+Zip Code 11369,2015,Number,39001,11369
+Zip Code 11369,2016,Number,37823,11369
+Zip Code 11369,2017,Number,37325,11369
+Zip Code 11369,2018,Number,34118,11369
+Zip Code 11370,2011,Number,38370,11370
+Zip Code 11370,2012,Number,37755,11370
+Zip Code 11370,2013,Number,37244,11370
+Zip Code 11370,2014,Number,36271,11370
+Zip Code 11370,2015,Number,35507,11370
+Zip Code 11370,2016,Number,34445,11370
+Zip Code 11370,2017,Number,33789,11370
+Zip Code 11370,2018,Number,32514,11370
+Zip Code 11371,2011,Number,0,11371
+Zip Code 11371,2012,Number,0,11371
+Zip Code 11371,2013,Number,0,11371
+Zip Code 11371,2014,Number,0,11371
+Zip Code 11371,2015,Number,0,11371
+Zip Code 11371,2016,Number,0,11371
+Zip Code 11371,2017,Number,0,11371
+Zip Code 11371,2018,Number,0,11371
+Zip Code 11372,2011,Number,63520,11372
+Zip Code 11372,2012,Number,62857,11372
+Zip Code 11372,2013,Number,63320,11372
+Zip Code 11372,2014,Number,63202,11372
+Zip Code 11372,2015,Number,64754,11372
+Zip Code 11372,2016,Number,64109,11372
+Zip Code 11372,2017,Number,64298,11372
+Zip Code 11372,2018,Number,61844,11372
+Zip Code 11373,2011,Number,96474,11373
+Zip Code 11373,2012,Number,97430,11373
+Zip Code 11373,2013,Number,99159,11373
+Zip Code 11373,2014,Number,100713,11373
+Zip Code 11373,2015,Number,98554,11373
+Zip Code 11373,2016,Number,96616,11373
+Zip Code 11373,2017,Number,96353,11373
+Zip Code 11373,2018,Number,93967,11373
+Zip Code 11374,2011,Number,42888,11374
+Zip Code 11374,2012,Number,42484,11374
+Zip Code 11374,2013,Number,42297,11374
+Zip Code 11374,2014,Number,41792,11374
+Zip Code 11374,2015,Number,43399,11374
+Zip Code 11374,2016,Number,43158,11374
+Zip Code 11374,2017,Number,43540,11374
+Zip Code 11374,2018,Number,42653,11374
+Zip Code 11375,2011,Number,69266,11375
+Zip Code 11375,2012,Number,69745,11375
+Zip Code 11375,2013,Number,69757,11375
+Zip Code 11375,2014,Number,69652,11375
+Zip Code 11375,2015,Number,70723,11375
+Zip Code 11375,2016,Number,71159,11375
+Zip Code 11375,2017,Number,72937,11375
+Zip Code 11375,2018,Number,73488,11375
+Zip Code 11377,2011,Number,87143,11377
+Zip Code 11377,2012,Number,87284,11377
+Zip Code 11377,2013,Number,86316,11377
+Zip Code 11377,2014,Number,88939,11377
+Zip Code 11377,2015,Number,90615,11377
+Zip Code 11377,2016,Number,90883,11377
+Zip Code 11377,2017,Number,89688,11377
+Zip Code 11377,2018,Number,86421,11377
+Zip Code 11378,2011,Number,33672,11378
+Zip Code 11378,2012,Number,32187,11378
+Zip Code 11378,2013,Number,32268,11378
+Zip Code 11378,2014,Number,30854,11378
+Zip Code 11378,2015,Number,31756,11378
+Zip Code 11378,2016,Number,33270,11378
+Zip Code 11378,2017,Number,35844,11378
+Zip Code 11378,2018,Number,37279,11378
+Zip Code 11379,2011,Number,34529,11379
+Zip Code 11379,2012,Number,35680,11379
+Zip Code 11379,2013,Number,35822,11379
+Zip Code 11379,2014,Number,35725,11379
+Zip Code 11379,2015,Number,35476,11379
+Zip Code 11379,2016,Number,36082,11379
+Zip Code 11379,2017,Number,37524,11379
+Zip Code 11379,2018,Number,37851,11379
+Zip Code 11385,2011,Number,99295,11385
+Zip Code 11385,2012,Number,99508,11385
+Zip Code 11385,2013,Number,99379,11385
+Zip Code 11385,2014,Number,100132,11385
+Zip Code 11385,2015,Number,102209,11385
+Zip Code 11385,2016,Number,103372,11385
+Zip Code 11385,2017,Number,106598,11385
+Zip Code 11385,2018,Number,106717,11385
+Zip Code 11411,2011,Number,20426,11411
+Zip Code 11411,2012,Number,19357,11411
+Zip Code 11411,2013,Number,18722,11411
+Zip Code 11411,2014,Number,19177,11411
+Zip Code 11411,2015,Number,19208,11411
+Zip Code 11411,2016,Number,19300,11411
+Zip Code 11411,2017,Number,19990,11411
+Zip Code 11411,2018,Number,20759,11411
+Zip Code 11412,2011,Number,36932,11412
+Zip Code 11412,2012,Number,36660,11412
+Zip Code 11412,2013,Number,37176,11412
+Zip Code 11412,2014,Number,37690,11412
+Zip Code 11412,2015,Number,37832,11412
+Zip Code 11412,2016,Number,37802,11412
+Zip Code 11412,2017,Number,38833,11412
+Zip Code 11412,2018,Number,37458,11412
+Zip Code 11413,2011,Number,39922,11413
+Zip Code 11413,2012,Number,39291,11413
+Zip Code 11413,2013,Number,40385,11413
+Zip Code 11413,2014,Number,41689,11413
+Zip Code 11413,2015,Number,42560,11413
+Zip Code 11413,2016,Number,42699,11413
+Zip Code 11413,2017,Number,42895,11413
+Zip Code 11413,2018,Number,42443,11413
+Zip Code 11414,2011,Number,28480,11414
+Zip Code 11414,2012,Number,28769,11414
+Zip Code 11414,2013,Number,28094,11414
+Zip Code 11414,2014,Number,28742,11414
+Zip Code 11414,2015,Number,28700,11414
+Zip Code 11414,2016,Number,28247,11414
+Zip Code 11414,2017,Number,29203,11414
+Zip Code 11414,2018,Number,29219,11414
+Zip Code 11415,2011,Number,18677,11415
+Zip Code 11415,2012,Number,19464,11415
+Zip Code 11415,2013,Number,19145,11415
+Zip Code 11415,2014,Number,19020,11415
+Zip Code 11415,2015,Number,19403,11415
+Zip Code 11415,2016,Number,19308,11415
+Zip Code 11415,2017,Number,19900,11415
+Zip Code 11415,2018,Number,19372,11415
+Zip Code 11416,2011,Number,23852,11416
+Zip Code 11416,2012,Number,24977,11416
+Zip Code 11416,2013,Number,25950,11416
+Zip Code 11416,2014,Number,25973,11416
+Zip Code 11416,2015,Number,26625,11416
+Zip Code 11416,2016,Number,27144,11416
+Zip Code 11416,2017,Number,27567,11416
+Zip Code 11416,2018,Number,27125,11416
+Zip Code 11417,2011,Number,29928,11417
+Zip Code 11417,2012,Number,30325,11417
+Zip Code 11417,2013,Number,31004,11417
+Zip Code 11417,2014,Number,31556,11417
+Zip Code 11417,2015,Number,32415,11417
+Zip Code 11417,2016,Number,31742,11417
+Zip Code 11417,2017,Number,32425,11417
+Zip Code 11417,2018,Number,31927,11417
+Zip Code 11418,2011,Number,36005,11418
+Zip Code 11418,2012,Number,36821,11418
+Zip Code 11418,2013,Number,36828,11418
+Zip Code 11418,2014,Number,36751,11418
+Zip Code 11418,2015,Number,39308,11418
+Zip Code 11418,2016,Number,39908,11418
+Zip Code 11418,2017,Number,39267,11418
+Zip Code 11418,2018,Number,38517,11418
+Zip Code 11419,2011,Number,48138,11419
+Zip Code 11419,2012,Number,48119,11419
+Zip Code 11419,2013,Number,49193,11419
+Zip Code 11419,2014,Number,48370,11419
+Zip Code 11419,2015,Number,49306,11419
+Zip Code 11419,2016,Number,51642,11419
+Zip Code 11419,2017,Number,52392,11419
+Zip Code 11419,2018,Number,49618,11419
+Zip Code 11420,2011,Number,47243,11420
+Zip Code 11420,2012,Number,48226,11420
+Zip Code 11420,2013,Number,48449,11420
+Zip Code 11420,2014,Number,50162,11420
+Zip Code 11420,2015,Number,50820,11420
+Zip Code 11420,2016,Number,50549,11420
+Zip Code 11420,2017,Number,49396,11420
+Zip Code 11420,2018,Number,48489,11420
+Zip Code 11421,2011,Number,40975,11421
+Zip Code 11421,2012,Number,41872,11421
+Zip Code 11421,2013,Number,42588,11421
+Zip Code 11421,2014,Number,42745,11421
+Zip Code 11421,2015,Number,43024,11421
+Zip Code 11421,2016,Number,43341,11421
+Zip Code 11421,2017,Number,43567,11421
+Zip Code 11421,2018,Number,41002,11421
+Zip Code 11422,2011,Number,31739,11422
+Zip Code 11422,2012,Number,33116,11422
+Zip Code 11422,2013,Number,33280,11422
+Zip Code 11422,2014,Number,32589,11422
+Zip Code 11422,2015,Number,33245,11422
+Zip Code 11422,2016,Number,33408,11422
+Zip Code 11422,2017,Number,33479,11422
+Zip Code 11422,2018,Number,32082,11422
+Zip Code 11423,2011,Number,30890,11423
+Zip Code 11423,2012,Number,31425,11423
+Zip Code 11423,2013,Number,31625,11423
+Zip Code 11423,2014,Number,32053,11423
+Zip Code 11423,2015,Number,31982,11423
+Zip Code 11423,2016,Number,31823,11423
+Zip Code 11423,2017,Number,32407,11423
+Zip Code 11423,2018,Number,31400,11423
+Zip Code 11426,2011,Number,19165,11426
+Zip Code 11426,2012,Number,18847,11426
+Zip Code 11426,2013,Number,19575,11426
+Zip Code 11426,2014,Number,19348,11426
+Zip Code 11426,2015,Number,19842,11426
+Zip Code 11426,2016,Number,19991,11426
+Zip Code 11426,2017,Number,21166,11426
+Zip Code 11426,2018,Number,20801,11426
+Zip Code 11427,2011,Number,24385,11427
+Zip Code 11427,2012,Number,24601,11427
+Zip Code 11427,2013,Number,24877,11427
+Zip Code 11427,2014,Number,23460,11427
+Zip Code 11427,2015,Number,23568,11427
+Zip Code 11427,2016,Number,22941,11427
+Zip Code 11427,2017,Number,23809,11427
+Zip Code 11427,2018,Number,24037,11427
+Zip Code 11428,2011,Number,19764,11428
+Zip Code 11428,2012,Number,19784,11428
+Zip Code 11428,2013,Number,20307,11428
+Zip Code 11428,2014,Number,20461,11428
+Zip Code 11428,2015,Number,19744,11428
+Zip Code 11428,2016,Number,19736,11428
+Zip Code 11428,2017,Number,19859,11428
+Zip Code 11428,2018,Number,18929,11428
+Zip Code 11429,2011,Number,29167,11429
+Zip Code 11429,2012,Number,28571,11429
+Zip Code 11429,2013,Number,28311,11429
+Zip Code 11429,2014,Number,27506,11429
+Zip Code 11429,2015,Number,26362,11429
+Zip Code 11429,2016,Number,26739,11429
+Zip Code 11429,2017,Number,27667,11429
+Zip Code 11429,2018,Number,27403,11429
+Zip Code 11430,2011,Number,53,11430
+Zip Code 11430,2012,Number,101,11430
+Zip Code 11430,2013,Number,140,11430
+Zip Code 11430,2014,Number,171,11430
+Zip Code 11430,2015,Number,186,11430
+Zip Code 11430,2016,Number,179,11430
+Zip Code 11430,2017,Number,183,11430
+Zip Code 11430,2018,Number,198,11430
+Zip Code 11432,2011,Number,56900,11432
+Zip Code 11432,2012,Number,58705,11432
+Zip Code 11432,2013,Number,61687,11432
+Zip Code 11432,2014,Number,62395,11432
+Zip Code 11432,2015,Number,63533,11432
+Zip Code 11432,2016,Number,64686,11432
+Zip Code 11432,2017,Number,65098,11432
+Zip Code 11432,2018,Number,62053,11432
+Zip Code 11433,2011,Number,30076,11433
+Zip Code 11433,2012,Number,30851,11433
+Zip Code 11433,2013,Number,32821,11433
+Zip Code 11433,2014,Number,37927,11433
+Zip Code 11433,2015,Number,34111,11433
+Zip Code 11433,2016,Number,34703,11433
+Zip Code 11433,2017,Number,36019,11433
+Zip Code 11433,2018,Number,36489,11433
+Zip Code 11434,2011,Number,61183,11434
+Zip Code 11434,2012,Number,61853,11434
+Zip Code 11434,2013,Number,62809,11434
+Zip Code 11434,2014,Number,65255,11434
+Zip Code 11434,2015,Number,65892,11434
+Zip Code 11434,2016,Number,66279,11434
+Zip Code 11434,2017,Number,66725,11434
+Zip Code 11434,2018,Number,65791,11434
+Zip Code 11435,2011,Number,52358,11435
+Zip Code 11435,2012,Number,52288,11435
+Zip Code 11435,2013,Number,53542,11435
+Zip Code 11435,2014,Number,54523,11435
+Zip Code 11435,2015,Number,55323,11435
+Zip Code 11435,2016,Number,57627,11435
+Zip Code 11435,2017,Number,59214,11435
+Zip Code 11435,2018,Number,59296,11435
+Zip Code 11436,2011,Number,16956,11436
+Zip Code 11436,2012,Number,17316,11436
+Zip Code 11436,2013,Number,17636,11436
+Zip Code 11436,2014,Number,18609,11436
+Zip Code 11436,2015,Number,19425,11436
+Zip Code 11436,2016,Number,20136,11436
+Zip Code 11436,2017,Number,20905,11436
+Zip Code 11436,2018,Number,20077,11436
+Zip Code 11691,2011,Number,59376,11691
+Zip Code 11691,2012,Number,61442,11691
+Zip Code 11691,2013,Number,61091,11691
+Zip Code 11691,2014,Number,62577,11691
+Zip Code 11691,2015,Number,63989,11691
+Zip Code 11691,2016,Number,64946,11691
+Zip Code 11691,2017,Number,65356,11691
+Zip Code 11691,2018,Number,67094,11691
+Zip Code 11692,2011,Number,17070,11692
+Zip Code 11692,2012,Number,16870,11692
+Zip Code 11692,2013,Number,17674,11692
+Zip Code 11692,2014,Number,17970,11692
+Zip Code 11692,2015,Number,18955,11692
+Zip Code 11692,2016,Number,19403,11692
+Zip Code 11692,2017,Number,20242,11692
+Zip Code 11692,2018,Number,20991,11692
+Zip Code 11693,2011,Number,11407,11693
+Zip Code 11693,2012,Number,11415,11693
+Zip Code 11693,2013,Number,11335,11693
+Zip Code 11693,2014,Number,11338,11693
+Zip Code 11693,2015,Number,11194,11693
+Zip Code 11693,2016,Number,12021,11693
+Zip Code 11693,2017,Number,12709,11693
+Zip Code 11693,2018,Number,12919,11693
+Zip Code 11694,2011,Number,20792,11694
+Zip Code 11694,2012,Number,21281,11694
+Zip Code 11694,2013,Number,21725,11694
+Zip Code 11694,2014,Number,21507,11694
+Zip Code 11694,2015,Number,20773,11694
+Zip Code 11694,2016,Number,21219,11694
+Zip Code 11694,2017,Number,21003,11694
+Zip Code 11694,2018,Number,21354,11694
+Zip Code 11697,2011,Number,4381,11697
+Zip Code 11697,2012,Number,4344,11697
+Zip Code 11697,2013,Number,4223,11697
+Zip Code 11697,2014,Number,4078,11697
+Zip Code 11697,2015,Number,4006,11697
+Zip Code 11697,2016,Number,3928,11697
+Zip Code 11697,2017,Number,3702,11697
+Zip Code 11697,2018,Number,3540,11697
+Battery Park/Tribeca,2019,Number,66437.96901,101
+Greenwich Village,2019,Number,98076.03099,102
+Lower East Side,2019,Number,167128,103
+Chelsea/Clinton,2019,Number,111490.31133,104
+Midtown Business District,2019,Number,55799.68867,105
+Murray Hill/Stuyvesant,2019,Number,148482,106
+Upper West Side,2019,Number,179682,107
+Upper East Side,2019,Number,216874,108
+Manhattanville,2019,Number,132837,109
+Central Harlem,2019,Number,136351,110
+East Harlem,2019,Number,111452,111
+Washington Heights,2019,Number,204096,112
+Mott Haven,2019,Number,93458.15468,201
+Hunts Point,2019,Number,53365.84532,202
+Morrisania,2019,Number,84605.54904,203
+Concourse/Highbridge,2019,Number,140906,204
+University Heights,2019,Number,138209,205
+East Tremont,2019,Number,88324.45096,206
+Bedford Park,2019,Number,151684,207
+Riverdale,2019,Number,104149,208
+Unionport/Soundview,2019,Number,178339,209
+Throgs Neck,2019,Number,110883,210
+Pelham Parkway,2019,Number,125155,211
+Williamsbridge,2019,Number,149128,212
+Williamsburg/Greenpoint,2019,Number,151308,301
+Fort Greene/Brooklyn Hts,2019,Number,133346,302
+Bedford Stuyvesant,2019,Number,144306,303
+Bushwick,2019,Number,127550,304
+East New York,2019,Number,180811,305
+Park Slope,2019,Number,114043,306
+Sunset Park,2019,Number,130783,307
+Crown Heights North,2019,Number,128327,308
+Crown Heights South,2019,Number,106258,309
+Bay Ridge,2019,Number,121925,310
+Bensonhurst,2019,Number,186959,311
+Borough Park,2019,Number,153470,312
+Coney Island,2019,Number,115277,313
+Flatbush/Midwood,2019,Number,156866,314
+Sheepshead Bay,2019,Number,147401,315
+Brownsville,2019,Number,128369,316
+East Flatbush,2019,Number,136009,317
+Canarsie,2019,Number,196895,318
+Astoria,2019,Number,166069,401
+Sunnyside/Woodside,2019,Number,136058,402
+Jackson Heights,2019,Number,175275,403
+Elmhurst/Corona,2019,Number,156074,404
+Ridgewood/Glendale,2019,Number,165895,405
+Rego Park/Forest Hills,2019,Number,105586,406
+Flushing,2019,Number,239869,407
+Fresh Meadows/Briarwood,2019,Number,168471,408
+Woodhaven,2019,Number,143756,409
+Howard Beach,2019,Number,118568,410
+Bayside,2019,Number,114562,411
+Jamaica/St. Albans,2019,Number,241275,412
+Queens Village,2019,Number,200660,413
+The Rockaways,2019,Number,121740,414
+St. George,2019,Number,176195,501
+South Beach,2019,Number,138590,502
+Tottenville,2019,Number,161358,503
+Bronx,2019,Number,1418207,36005
+Brooklyn,2019,Number,2559903,36047
+Manhattan,2019,Number,1628706,36061
+Queens,2019,Number,2253858,36081
+Staten Island,2019,Number,476143,36085
+New York City,2019,Number,8336817,3651000
