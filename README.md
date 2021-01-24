@@ -7,6 +7,5 @@ https://drive.google.com/file/d/1FRugMSsXPg37L1KJgl2xEj7hO4JieItG/view?usp=shari
 # To-Do
 - ~~organize data -- what exactly do we have?~~
 - ~~figure out how to map precincts~~
-- add toggles to map (types of crime)
-- add income information checkbox (color)
-- add precinct funding checkbox (also color?)
+- map of those below the poverty line (per capita?)
+- map of total violent crime per capita
