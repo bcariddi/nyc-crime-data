@@ -44,4 +44,4 @@ fig = px.choropleth_mapbox(df,
                            )
 
 fig.show()
-
+fig.write_html('poverty_map.html')
