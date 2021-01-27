@@ -11,4 +11,4 @@ Our data visualization Project for Computing Service -- a map of NYC Crime data.
 - ~~organize data -- what exactly do we have?~~
 - ~~figure out how to map precincts~~
 - ~~map of those below the poverty line (per capita?)~~
-- map of total violent crime per capita
+- ~~map of total violent crime per capita~~
