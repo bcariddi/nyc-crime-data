@@ -6,7 +6,6 @@ The data we used came from the governement of New York and New York City. Our co
 
 ## Usage
 - Open test.html in a browser to see our visualizations
-- or follow this link: https://bcariddi.github.io/nyc-crime-data/
 
 ## Data
 - https://drive.google.com/file/d/1J_1Fq9BGihx2LGbxLhfnDNB8hDAeHz8u/view?usp=sharing
