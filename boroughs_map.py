@@ -8,23 +8,22 @@ import plotly.express as px
 df = pd.read_csv('data/2018_NYPD_Data.csv', low_memory=False)
 
 crime_counts = df['BORO_NM'].value_counts().to_dict()
+print(crime_counts)
 nycmap = json.load(open('data/geojsons/boroughs.geojson'))
 
 mapdata = nycmap['features']
 d = []
 for x in mapdata:
-    b = float(x['properties']['borough'])
-    n_crimes = crime_counts[precinct]
-    d.append([b, n_crimes])
+    borough = x['properties']['boro_name'].upper()
+    n_crimes = crime_counts[borough]
+    d.append([borough, n_crimes])
 
-
-df = pd.DataFrame(d, columns=['precinct', 'n_crimes'])
-print(df)
+df = pd.DataFrame(d, columns=['borough', 'n_crimes'])
 
 fig = px.choropleth_mapbox(df,
                            geojson=nycmap,
-                           locations='precinct',
-                           featureidkey='properties.precinct',
+                           locations='borough',
+                           featureidkey='properties.boro_nm',
                            color='n_crimes',
                            color_continuous_scale='viridis',
                            mapbox_style='carto-positron',
